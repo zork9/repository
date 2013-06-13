@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/22840/java-repository/games/3d.jengine/engine/game
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/22786/java-repository/games/3d.jengine/engine/game/Vector.java
+END
+ModelNativeBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn-gen/!svn/ver/22812/java-repository/games/3d.jengine/engine/game/ModelNativeBase.java
+END
+Translatef.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/22809/java-repository/games/3d.jengine/engine/game/Translatef.java
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/22840/java-repository/games/3d.jengine/engine/game/Matrix.java
+END
+Rotationf.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/22786/java-repository/games/3d.jengine/engine/game/Rotationf.java
+END
+Texturef.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/22786/java-repository/games/3d.jengine/engine/game/Texturef.java
+END
+ModelNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-gen/!svn/ver/22811/java-repository/games/3d.jengine/engine/game/ModelNative.java
+END
+StateImageLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn-gen/!svn/ver/22786/java-repository/games/3d.jengine/engine/game/StateImageLibrary.java
+END
+SimpleMidiPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn-gen/!svn/ver/22786/java-repository/games/3d.jengine/engine/game/SimpleMidiPlayer.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/22814/java-repository/games/3d.jengine/engine/game/Game.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-gen/!svn/ver/22786/java-repository/games/3d.jengine/engine/game/BoundingBox.java
+END
+VerticesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn-gen/!svn/ver/22840/java-repository/games/3d.jengine/engine/game/VerticesList.java
+END
+Quaternion.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/22840/java-repository/games/3d.jengine/engine/game/Quaternion.java
+END
+Vector3.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/22805/java-repository/games/3d.jengine/engine/game/Vector3.java
+END
+Sphere.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/22811/java-repository/games/3d.jengine/engine/game/Sphere.java
+END
+Camera.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/22814/java-repository/games/3d.jengine/engine/game/Camera.java
+END
+Engine3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/22786/java-repository/games/3d.jengine/engine/game/Engine3D.java
+END
+Scalef.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/22786/java-repository/games/3d.jengine/engine/game/Scalef.java
+END

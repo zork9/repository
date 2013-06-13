@@ -1,0 +1,33 @@
+
+LISTS
+
+FUNCTIONS
+. functions with defun and lambda syntax keywords should be able to be applied to a list of variables
+
+MISC
+. skipping newlines in formatLisp and some other procedures
+
+. put syntax words in list and scan with learning algo
+. matrix energy or some ai (objc) which lets compiler do stuff
+
+. in forms (Form*) thereare '\n', in lines there are not
+. parse tree with liblisparm, OTree.m
+. stringWithFormat: is class method
+
+. gray code for Hex ctorString:
+. TAdpater in lisp
+
+. watch out for Form* shadowing parameter
+
+. process forms with function table 
+
+. NOTE forms which are Form in Symbol value (Form*)
+
+. parsePlus -> parseMin parseMul
+. reverse form when parseForms: called 
+. watch out for triple reverse in returning from loops
+(if (+ 200 300 100) 1 2)
+(if 1 x 2)
+(+ x 20 30)
+(setq x 33);;this should reset the type of x !
+(setf x (1 2 3))

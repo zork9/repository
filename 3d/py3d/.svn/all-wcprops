@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn-gen/!svn/ver/19668/3d/py3d
+END
+COPYING.modBSD
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn-gen/!svn/ver/19534/3d/py3d/COPYING.modBSD
+END
+game.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn-gen/!svn/ver/19534/3d/py3d/game.py
+END
+example.3ds
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn-gen/!svn/ver/19546/3d/py3d/example.3ds
+END
+room1.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn-gen/!svn/ver/19539/3d/py3d/room1.py
+END
+cube.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn-gen/!svn/ver/19668/3d/py3d/cube.py
+END
+screen.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn-gen/!svn/ver/19668/3d/py3d/screen.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn-gen/!svn/ver/19534/3d/py3d/COPYING
+END
+engine.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn-gen/!svn/ver/19562/3d/py3d/engine.py
+END
+vector3.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn-gen/!svn/ver/19534/3d/py3d/vector3.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn-gen/!svn/ver/19534/3d/py3d/README
+END
+dsfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn-gen/!svn/ver/19564/3d/py3d/dsfile.py
+END
+matrix3.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn-gen/!svn/ver/19534/3d/py3d/matrix3.py
+END

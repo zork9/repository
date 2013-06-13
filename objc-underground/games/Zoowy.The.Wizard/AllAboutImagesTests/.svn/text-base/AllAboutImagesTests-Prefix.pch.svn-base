@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AllAboutImagesTests' target in the 'AllAboutImagesTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif

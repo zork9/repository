@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include
+END
+lmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lmem.h
+END
+lstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lstate.h
+END
+ltm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/ltm.h
+END
+lvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lvm.h
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lauxlib.h
+END
+ldebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/ldebug.h
+END
+ltable.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/ltable.h
+END
+llex.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/llex.h
+END
+lgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lgc.h
+END
+lfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lfunc.h
+END
+lua++.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lua++.h
+END
+lparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lparser.h
+END
+lopcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lopcodes.h
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lualib.h
+END
+llimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/llimits.h
+END
+lzio.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lzio.h
+END
+ldo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/ldo.h
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lua.h
+END
+lstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lstring.h
+END
+lobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lobject.h
+END
+lundump.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lundump.h
+END
+lapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lapi.h
+END
+lcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/lcode.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/include/luaconf.h
+END

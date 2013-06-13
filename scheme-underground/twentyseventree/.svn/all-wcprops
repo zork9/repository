@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/20480/scheme-underground/twentyseventree
+END
+packages.scm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn-gen/!svn/ver/19493/scheme-underground/twentyseventree/packages.scm
+END
+tree.scm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/20480/scheme-underground/twentyseventree/tree.scm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19493/scheme-underground/twentyseventree/AUTHORS
+END
+main.scm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/20480/scheme-underground/twentyseventree/main.scm
+END
+BLURB
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19493/scheme-underground/twentyseventree/BLURB
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/20480/scheme-underground/twentyseventree/COPYING
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/19493/scheme-underground/twentyseventree/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/19493/scheme-underground/twentyseventree/README
+END
+pkg-def.scm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19493/scheme-underground/twentyseventree/pkg-def.scm
+END

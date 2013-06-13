@@ -1,0 +1,453 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3BCA48AA16551A6400466DA2 /* Data.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BCA48A616551A6400466DA2 /* Data.h */; };
+		3BCA48AB16551A6400466DA2 /* Data.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BCA48A716551A6400466DA2 /* Data.m */; };
+		3BCA48AC16551A6400466DA2 /* DataArray.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BCA48A816551A6400466DA2 /* DataArray.h */; };
+		3BCA48AD16551A6400466DA2 /* DataArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BCA48A916551A6400466DA2 /* DataArray.m */; };
+		3BCA48B216551A7200466DA2 /* Object.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BCA48B016551A7200466DA2 /* Object.h */; };
+		3BCA48B316551A7200466DA2 /* Object.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BCA48B116551A7200466DA2 /* Object.m */; };
+		3BFBED8F164BF09F00D83B64 /* ArmCompiler.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED55164BF09F00D83B64 /* ArmCompiler.h */; };
+		3BFBED90164BF09F00D83B64 /* ArmCompiler.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED56164BF09F00D83B64 /* ArmCompiler.m */; };
+		3BFBED91164BF09F00D83B64 /* ArmScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED57164BF09F00D83B64 /* ArmScanner.h */; };
+		3BFBED92164BF09F00D83B64 /* ArmScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED58164BF09F00D83B64 /* ArmScanner.m */; };
+		3BFBED93164BF09F00D83B64 /* ArmSubCompiler.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED59164BF09F00D83B64 /* ArmSubCompiler.h */; };
+		3BFBED94164BF09F00D83B64 /* ArmSubCompiler.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED5A164BF09F00D83B64 /* ArmSubCompiler.m */; };
+		3BFBED95164BF09F00D83B64 /* ArmSubScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED5B164BF09F00D83B64 /* ArmSubScanner.h */; };
+		3BFBED96164BF09F00D83B64 /* ArmSubScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED5C164BF09F00D83B64 /* ArmSubScanner.m */; };
+		3BFBED97164BF09F00D83B64 /* ClassLocator.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED5D164BF09F00D83B64 /* ClassLocator.h */; };
+		3BFBED98164BF09F00D83B64 /* ClassLocator.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED5E164BF09F00D83B64 /* ClassLocator.m */; };
+		3BFBED99164BF09F00D83B64 /* Compiler.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED5F164BF09F00D83B64 /* Compiler.h */; };
+		3BFBED9A164BF09F00D83B64 /* Compiler.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED60164BF09F00D83B64 /* Compiler.m */; };
+		3BFBED9B164BF09F00D83B64 /* Dispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED61164BF09F00D83B64 /* Dispatcher.h */; };
+		3BFBED9C164BF09F00D83B64 /* Dispatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED62164BF09F00D83B64 /* Dispatcher.m */; };
+		3BFBED9D164BF09F00D83B64 /* Error.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED63164BF09F00D83B64 /* Error.h */; };
+		3BFBED9E164BF09F00D83B64 /* Error.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED64164BF09F00D83B64 /* Error.m */; };
+		3BFBED9F164BF09F00D83B64 /* FNString.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED65164BF09F00D83B64 /* FNString.h */; };
+		3BFBEDA0164BF09F00D83B64 /* FNString.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED66164BF09F00D83B64 /* FNString.m */; };
+		3BFBEDA1164BF09F00D83B64 /* Fuzzy.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED67164BF09F00D83B64 /* Fuzzy.h */; };
+		3BFBEDA2164BF09F00D83B64 /* Fuzzy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED68164BF09F00D83B64 /* Fuzzy.m */; };
+		3BFBEDA3164BF09F00D83B64 /* GBAObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED69164BF09F00D83B64 /* GBAObject.h */; };
+		3BFBEDA4164BF09F00D83B64 /* GBAObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED6A164BF09F00D83B64 /* GBAObject.m */; };
+		3BFBEDA5164BF09F00D83B64 /* HashTable.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED6B164BF09F00D83B64 /* HashTable.h */; };
+		3BFBEDA6164BF09F00D83B64 /* HashTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED6C164BF09F00D83B64 /* HashTable.m */; };
+		3BFBEDA7164BF09F00D83B64 /* HashTableStrings.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED6D164BF09F00D83B64 /* HashTableStrings.h */; };
+		3BFBEDA8164BF09F00D83B64 /* HashTableStrings.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED6E164BF09F00D83B64 /* HashTableStrings.m */; };
+		3BFBEDA9164BF09F00D83B64 /* GBAChunk.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED70164BF09F00D83B64 /* GBAChunk.h */; };
+		3BFBEDAA164BF09F00D83B64 /* GBAChunk.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED71164BF09F00D83B64 /* GBAChunk.m */; };
+		3BFBEDAB164BF09F00D83B64 /* GBAMemory.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED72164BF09F00D83B64 /* GBAMemory.h */; };
+		3BFBEDAC164BF09F00D83B64 /* GBAMemory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED73164BF09F00D83B64 /* GBAMemory.m */; };
+		3BFBEDAD164BF09F00D83B64 /* GBAutil.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED74164BF09F00D83B64 /* GBAutil.h */; };
+		3BFBEDAE164BF09F00D83B64 /* MemChunk.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED75164BF09F00D83B64 /* MemChunk.h */; };
+		3BFBEDAF164BF09F00D83B64 /* MemChunk.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED76164BF09F00D83B64 /* MemChunk.m */; };
+		3BFBEDB0164BF09F00D83B64 /* Memory.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED77164BF09F00D83B64 /* Memory.h */; };
+		3BFBEDB1164BF09F00D83B64 /* Memory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED78164BF09F00D83B64 /* Memory.m */; };
+		3BFBEDB2164BF09F00D83B64 /* MethodName.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED7C164BF09F00D83B64 /* MethodName.h */; };
+		3BFBEDB3164BF09F00D83B64 /* MethodName.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED7D164BF09F00D83B64 /* MethodName.m */; };
+		3BFBEDB4164BF09F00D83B64 /* MethodNameArray.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED7E164BF09F00D83B64 /* MethodNameArray.h */; };
+		3BFBEDB5164BF09F00D83B64 /* MethodNameArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED7F164BF09F00D83B64 /* MethodNameArray.m */; };
+		3BFBEDB6164BF09F00D83B64 /* ObjectLocator.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED81164BF09F00D83B64 /* ObjectLocator.h */; };
+		3BFBEDB7164BF09F00D83B64 /* ObjectLocator.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED82164BF09F00D83B64 /* ObjectLocator.m */; };
+		3BFBEDB8164BF09F00D83B64 /* ParseString.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED83164BF09F00D83B64 /* ParseString.h */; };
+		3BFBEDB9164BF09F00D83B64 /* ParseString.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED84164BF09F00D83B64 /* ParseString.m */; };
+		3BFBEDBA164BF09F00D83B64 /* Scanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED85164BF09F00D83B64 /* Scanner.h */; };
+		3BFBEDBB164BF09F00D83B64 /* Scanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED86164BF09F00D83B64 /* Scanner.m */; };
+		3BFBEDBC164BF09F00D83B64 /* scansystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED87164BF09F00D83B64 /* scansystem.h */; };
+		3BFBEDBD164BF09F00D83B64 /* scansystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED88164BF09F00D83B64 /* scansystem.m */; };
+		3BFBEDBE164BF09F00D83B64 /* Status.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED89164BF09F00D83B64 /* Status.h */; };
+		3BFBEDBF164BF09F00D83B64 /* Status.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED8A164BF09F00D83B64 /* Status.m */; };
+		3BFBEDC0164BF09F00D83B64 /* TypeName.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED8B164BF09F00D83B64 /* TypeName.h */; };
+		3BFBEDC1164BF09F00D83B64 /* TypeName.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED8C164BF09F00D83B64 /* TypeName.m */; };
+		3BFBEDC2164BF09F00D83B64 /* TypeNameArray.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBED8D164BF09F00D83B64 /* TypeNameArray.h */; };
+		3BFBEDC3164BF09F00D83B64 /* TypeNameArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBED8E164BF09F00D83B64 /* TypeNameArray.m */; };
+		3BFBEDCB164BF0DA00D83B64 /* FileBuffer.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BFBEDC9164BF0DA00D83B64 /* FileBuffer.h */; };
+		3BFBEDCC164BF0DA00D83B64 /* FileBuffer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BFBEDCA164BF0DA00D83B64 /* FileBuffer.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3BCA48A616551A6400466DA2 /* Data.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Data.h; path = ../libobjcgbarm/src/Data.h; sourceTree = SOURCE_ROOT; };
+		3BCA48A716551A6400466DA2 /* Data.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Data.m; path = ../libobjcgbarm/src/Data.m; sourceTree = SOURCE_ROOT; };
+		3BCA48A816551A6400466DA2 /* DataArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DataArray.h; path = ../libobjcgbarm/src/DataArray.h; sourceTree = SOURCE_ROOT; };
+		3BCA48A916551A6400466DA2 /* DataArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DataArray.m; path = ../libobjcgbarm/src/DataArray.m; sourceTree = SOURCE_ROOT; };
+		3BCA48B016551A7200466DA2 /* Object.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Object.h; path = ../libobjcgbarm/src/Object.h; sourceTree = SOURCE_ROOT; };
+		3BCA48B116551A7200466DA2 /* Object.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Object.m; path = ../libobjcgbarm/src/Object.m; sourceTree = SOURCE_ROOT; };
+		3BFBED55164BF09F00D83B64 /* ArmCompiler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ArmCompiler.h; path = ../libobjcgbarm/src/ArmCompiler.h; sourceTree = SOURCE_ROOT; };
+		3BFBED56164BF09F00D83B64 /* ArmCompiler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ArmCompiler.m; path = ../libobjcgbarm/src/ArmCompiler.m; sourceTree = SOURCE_ROOT; };
+		3BFBED57164BF09F00D83B64 /* ArmScanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ArmScanner.h; path = ../libobjcgbarm/src/ArmScanner.h; sourceTree = SOURCE_ROOT; };
+		3BFBED58164BF09F00D83B64 /* ArmScanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ArmScanner.m; path = ../libobjcgbarm/src/ArmScanner.m; sourceTree = SOURCE_ROOT; };
+		3BFBED59164BF09F00D83B64 /* ArmSubCompiler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ArmSubCompiler.h; path = ../libobjcgbarm/src/ArmSubCompiler.h; sourceTree = SOURCE_ROOT; };
+		3BFBED5A164BF09F00D83B64 /* ArmSubCompiler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ArmSubCompiler.m; path = ../libobjcgbarm/src/ArmSubCompiler.m; sourceTree = SOURCE_ROOT; };
+		3BFBED5B164BF09F00D83B64 /* ArmSubScanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ArmSubScanner.h; path = ../libobjcgbarm/src/ArmSubScanner.h; sourceTree = SOURCE_ROOT; };
+		3BFBED5C164BF09F00D83B64 /* ArmSubScanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ArmSubScanner.m; path = ../libobjcgbarm/src/ArmSubScanner.m; sourceTree = SOURCE_ROOT; };
+		3BFBED5D164BF09F00D83B64 /* ClassLocator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ClassLocator.h; path = ../libobjcgbarm/src/ClassLocator.h; sourceTree = SOURCE_ROOT; };
+		3BFBED5E164BF09F00D83B64 /* ClassLocator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ClassLocator.m; path = ../libobjcgbarm/src/ClassLocator.m; sourceTree = SOURCE_ROOT; };
+		3BFBED5F164BF09F00D83B64 /* Compiler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Compiler.h; path = ../libobjcgbarm/src/Compiler.h; sourceTree = SOURCE_ROOT; };
+		3BFBED60164BF09F00D83B64 /* Compiler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Compiler.m; path = ../libobjcgbarm/src/Compiler.m; sourceTree = SOURCE_ROOT; };
+		3BFBED61164BF09F00D83B64 /* Dispatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Dispatcher.h; path = ../libobjcgbarm/src/Dispatcher.h; sourceTree = SOURCE_ROOT; };
+		3BFBED62164BF09F00D83B64 /* Dispatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Dispatcher.m; path = ../libobjcgbarm/src/Dispatcher.m; sourceTree = SOURCE_ROOT; };
+		3BFBED63164BF09F00D83B64 /* Error.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Error.h; path = ../libobjcgbarm/src/Error.h; sourceTree = SOURCE_ROOT; };
+		3BFBED64164BF09F00D83B64 /* Error.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Error.m; path = ../libobjcgbarm/src/Error.m; sourceTree = SOURCE_ROOT; };
+		3BFBED65164BF09F00D83B64 /* FNString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FNString.h; path = ../libobjcgbarm/src/FNString.h; sourceTree = SOURCE_ROOT; };
+		3BFBED66164BF09F00D83B64 /* FNString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FNString.m; path = ../libobjcgbarm/src/FNString.m; sourceTree = SOURCE_ROOT; };
+		3BFBED67164BF09F00D83B64 /* Fuzzy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Fuzzy.h; path = ../libobjcgbarm/src/Fuzzy.h; sourceTree = SOURCE_ROOT; };
+		3BFBED68164BF09F00D83B64 /* Fuzzy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Fuzzy.m; path = ../libobjcgbarm/src/Fuzzy.m; sourceTree = SOURCE_ROOT; };
+		3BFBED69164BF09F00D83B64 /* GBAObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GBAObject.h; path = ../libobjcgbarm/src/GBAObject.h; sourceTree = SOURCE_ROOT; };
+		3BFBED6A164BF09F00D83B64 /* GBAObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GBAObject.m; path = ../libobjcgbarm/src/GBAObject.m; sourceTree = SOURCE_ROOT; };
+		3BFBED6B164BF09F00D83B64 /* HashTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HashTable.h; path = ../libobjcgbarm/src/HashTable.h; sourceTree = SOURCE_ROOT; };
+		3BFBED6C164BF09F00D83B64 /* HashTable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HashTable.m; path = ../libobjcgbarm/src/HashTable.m; sourceTree = SOURCE_ROOT; };
+		3BFBED6D164BF09F00D83B64 /* HashTableStrings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HashTableStrings.h; path = ../libobjcgbarm/src/HashTableStrings.h; sourceTree = SOURCE_ROOT; };
+		3BFBED6E164BF09F00D83B64 /* HashTableStrings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HashTableStrings.m; path = ../libobjcgbarm/src/HashTableStrings.m; sourceTree = SOURCE_ROOT; };
+		3BFBED70164BF09F00D83B64 /* GBAChunk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAChunk.h; sourceTree = "<group>"; };
+		3BFBED71164BF09F00D83B64 /* GBAChunk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GBAChunk.m; sourceTree = "<group>"; };
+		3BFBED72164BF09F00D83B64 /* GBAMemory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAMemory.h; sourceTree = "<group>"; };
+		3BFBED73164BF09F00D83B64 /* GBAMemory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GBAMemory.m; sourceTree = "<group>"; };
+		3BFBED74164BF09F00D83B64 /* GBAutil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAutil.h; sourceTree = "<group>"; };
+		3BFBED75164BF09F00D83B64 /* MemChunk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MemChunk.h; sourceTree = "<group>"; };
+		3BFBED76164BF09F00D83B64 /* MemChunk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MemChunk.m; sourceTree = "<group>"; };
+		3BFBED77164BF09F00D83B64 /* Memory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Memory.h; sourceTree = "<group>"; };
+		3BFBED78164BF09F00D83B64 /* Memory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Memory.m; sourceTree = "<group>"; };
+		3BFBED79164BF09F00D83B64 /* NOTES.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NOTES.txt; sourceTree = "<group>"; };
+		3BFBED7A164BF09F00D83B64 /* main.c.base */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = main.c.base; path = ../libobjcgbarm/src/main.c.base; sourceTree = SOURCE_ROOT; };
+		3BFBED7B164BF09F00D83B64 /* Makefile.base */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Makefile.base; path = ../libobjcgbarm/src/Makefile.base; sourceTree = SOURCE_ROOT; };
+		3BFBED7C164BF09F00D83B64 /* MethodName.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MethodName.h; path = ../libobjcgbarm/src/MethodName.h; sourceTree = SOURCE_ROOT; };
+		3BFBED7D164BF09F00D83B64 /* MethodName.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MethodName.m; path = ../libobjcgbarm/src/MethodName.m; sourceTree = SOURCE_ROOT; };
+		3BFBED7E164BF09F00D83B64 /* MethodNameArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MethodNameArray.h; path = ../libobjcgbarm/src/MethodNameArray.h; sourceTree = SOURCE_ROOT; };
+		3BFBED7F164BF09F00D83B64 /* MethodNameArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MethodNameArray.m; path = ../libobjcgbarm/src/MethodNameArray.m; sourceTree = SOURCE_ROOT; };
+		3BFBED80164BF09F00D83B64 /* NOTES.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = NOTES.txt; path = ../libobjcgbarm/src/NOTES.txt; sourceTree = SOURCE_ROOT; };
+		3BFBED81164BF09F00D83B64 /* ObjectLocator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ObjectLocator.h; path = ../libobjcgbarm/src/ObjectLocator.h; sourceTree = SOURCE_ROOT; };
+		3BFBED82164BF09F00D83B64 /* ObjectLocator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ObjectLocator.m; path = ../libobjcgbarm/src/ObjectLocator.m; sourceTree = SOURCE_ROOT; };
+		3BFBED83164BF09F00D83B64 /* ParseString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ParseString.h; path = ../libobjcgbarm/src/ParseString.h; sourceTree = SOURCE_ROOT; };
+		3BFBED84164BF09F00D83B64 /* ParseString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ParseString.m; path = ../libobjcgbarm/src/ParseString.m; sourceTree = SOURCE_ROOT; };
+		3BFBED85164BF09F00D83B64 /* Scanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Scanner.h; path = ../libobjcgbarm/src/Scanner.h; sourceTree = SOURCE_ROOT; };
+		3BFBED86164BF09F00D83B64 /* Scanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Scanner.m; path = ../libobjcgbarm/src/Scanner.m; sourceTree = SOURCE_ROOT; };
+		3BFBED87164BF09F00D83B64 /* scansystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = scansystem.h; path = ../libobjcgbarm/src/scansystem.h; sourceTree = SOURCE_ROOT; };
+		3BFBED88164BF09F00D83B64 /* scansystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = scansystem.m; path = ../libobjcgbarm/src/scansystem.m; sourceTree = SOURCE_ROOT; };
+		3BFBED89164BF09F00D83B64 /* Status.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Status.h; path = ../libobjcgbarm/src/Status.h; sourceTree = SOURCE_ROOT; };
+		3BFBED8A164BF09F00D83B64 /* Status.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Status.m; path = ../libobjcgbarm/src/Status.m; sourceTree = SOURCE_ROOT; };
+		3BFBED8B164BF09F00D83B64 /* TypeName.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TypeName.h; path = ../libobjcgbarm/src/TypeName.h; sourceTree = SOURCE_ROOT; };
+		3BFBED8C164BF09F00D83B64 /* TypeName.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TypeName.m; path = ../libobjcgbarm/src/TypeName.m; sourceTree = SOURCE_ROOT; };
+		3BFBED8D164BF09F00D83B64 /* TypeNameArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TypeNameArray.h; path = ../libobjcgbarm/src/TypeNameArray.h; sourceTree = SOURCE_ROOT; };
+		3BFBED8E164BF09F00D83B64 /* TypeNameArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TypeNameArray.m; path = ../libobjcgbarm/src/TypeNameArray.m; sourceTree = SOURCE_ROOT; };
+		3BFBEDC9164BF0DA00D83B64 /* FileBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FileBuffer.h; path = ../libcarm/FileBuffer.h; sourceTree = SOURCE_ROOT; };
+		3BFBEDCA164BF0DA00D83B64 /* FileBuffer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FileBuffer.m; path = ../libcarm/FileBuffer.m; sourceTree = SOURCE_ROOT; };
+		D2AAC046055464E500DB518D /* liblibobjcgbarm.xcode.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = liblibobjcgbarm.xcode.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D289987405E68DCB004EDB86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* libobjcgbarm.xcode */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7795FE84155DC02AAC07 /* Source */,
+				C6A0FF2B0290797F04C91782 /* Documentation */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = libobjcgbarm.xcode;
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				3BFBEDC9164BF0DA00D83B64 /* FileBuffer.h */,
+				3BCA48B016551A7200466DA2 /* Object.h */,
+				3BCA48B116551A7200466DA2 /* Object.m */,
+				3BCA48A616551A6400466DA2 /* Data.h */,
+				3BCA48A716551A6400466DA2 /* Data.m */,
+				3BCA48A816551A6400466DA2 /* DataArray.h */,
+				3BCA48A916551A6400466DA2 /* DataArray.m */,
+				3BFBEDCA164BF0DA00D83B64 /* FileBuffer.m */,
+				3BFBED55164BF09F00D83B64 /* ArmCompiler.h */,
+				3BFBED56164BF09F00D83B64 /* ArmCompiler.m */,
+				3BFBED57164BF09F00D83B64 /* ArmScanner.h */,
+				3BFBED58164BF09F00D83B64 /* ArmScanner.m */,
+				3BFBED59164BF09F00D83B64 /* ArmSubCompiler.h */,
+				3BFBED5A164BF09F00D83B64 /* ArmSubCompiler.m */,
+				3BFBED5B164BF09F00D83B64 /* ArmSubScanner.h */,
+				3BFBED5C164BF09F00D83B64 /* ArmSubScanner.m */,
+				3BFBED5D164BF09F00D83B64 /* ClassLocator.h */,
+				3BFBED5E164BF09F00D83B64 /* ClassLocator.m */,
+				3BFBED5F164BF09F00D83B64 /* Compiler.h */,
+				3BFBED60164BF09F00D83B64 /* Compiler.m */,
+				3BFBED61164BF09F00D83B64 /* Dispatcher.h */,
+				3BFBED62164BF09F00D83B64 /* Dispatcher.m */,
+				3BFBED63164BF09F00D83B64 /* Error.h */,
+				3BFBED64164BF09F00D83B64 /* Error.m */,
+				3BFBED65164BF09F00D83B64 /* FNString.h */,
+				3BFBED66164BF09F00D83B64 /* FNString.m */,
+				3BFBED67164BF09F00D83B64 /* Fuzzy.h */,
+				3BFBED68164BF09F00D83B64 /* Fuzzy.m */,
+				3BFBED69164BF09F00D83B64 /* GBAObject.h */,
+				3BFBED6A164BF09F00D83B64 /* GBAObject.m */,
+				3BFBED6B164BF09F00D83B64 /* HashTable.h */,
+				3BFBED6C164BF09F00D83B64 /* HashTable.m */,
+				3BFBED6D164BF09F00D83B64 /* HashTableStrings.h */,
+				3BFBED6E164BF09F00D83B64 /* HashTableStrings.m */,
+				3BFBED6F164BF09F00D83B64 /* libmemory */,
+				3BFBED7A164BF09F00D83B64 /* main.c.base */,
+				3BFBED7B164BF09F00D83B64 /* Makefile.base */,
+				3BFBED7C164BF09F00D83B64 /* MethodName.h */,
+				3BFBED7D164BF09F00D83B64 /* MethodName.m */,
+				3BFBED7E164BF09F00D83B64 /* MethodNameArray.h */,
+				3BFBED7F164BF09F00D83B64 /* MethodNameArray.m */,
+				3BFBED80164BF09F00D83B64 /* NOTES.txt */,
+				3BFBED81164BF09F00D83B64 /* ObjectLocator.h */,
+				3BFBED82164BF09F00D83B64 /* ObjectLocator.m */,
+				3BFBED83164BF09F00D83B64 /* ParseString.h */,
+				3BFBED84164BF09F00D83B64 /* ParseString.m */,
+				3BFBED85164BF09F00D83B64 /* Scanner.h */,
+				3BFBED86164BF09F00D83B64 /* Scanner.m */,
+				3BFBED87164BF09F00D83B64 /* scansystem.h */,
+				3BFBED88164BF09F00D83B64 /* scansystem.m */,
+				3BFBED89164BF09F00D83B64 /* Status.h */,
+				3BFBED8A164BF09F00D83B64 /* Status.m */,
+				3BFBED8B164BF09F00D83B64 /* TypeName.h */,
+				3BFBED8C164BF09F00D83B64 /* TypeName.m */,
+				3BFBED8D164BF09F00D83B64 /* TypeNameArray.h */,
+				3BFBED8E164BF09F00D83B64 /* TypeNameArray.m */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC046055464E500DB518D /* liblibobjcgbarm.xcode.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3BFBED6F164BF09F00D83B64 /* libmemory */ = {
+			isa = PBXGroup;
+			children = (
+				3BFBED70164BF09F00D83B64 /* GBAChunk.h */,
+				3BFBED71164BF09F00D83B64 /* GBAChunk.m */,
+				3BFBED72164BF09F00D83B64 /* GBAMemory.h */,
+				3BFBED73164BF09F00D83B64 /* GBAMemory.m */,
+				3BFBED74164BF09F00D83B64 /* GBAutil.h */,
+				3BFBED75164BF09F00D83B64 /* MemChunk.h */,
+				3BFBED76164BF09F00D83B64 /* MemChunk.m */,
+				3BFBED77164BF09F00D83B64 /* Memory.h */,
+				3BFBED78164BF09F00D83B64 /* Memory.m */,
+				3BFBED79164BF09F00D83B64 /* NOTES.txt */,
+			);
+			name = libmemory;
+			path = ../libobjcgbarm/src/libmemory;
+			sourceTree = SOURCE_ROOT;
+		};
+		C6A0FF2B0290797F04C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC043055464E500DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BFBED8F164BF09F00D83B64 /* ArmCompiler.h in Headers */,
+				3BFBED91164BF09F00D83B64 /* ArmScanner.h in Headers */,
+				3BFBED93164BF09F00D83B64 /* ArmSubCompiler.h in Headers */,
+				3BFBED95164BF09F00D83B64 /* ArmSubScanner.h in Headers */,
+				3BFBED97164BF09F00D83B64 /* ClassLocator.h in Headers */,
+				3BFBED99164BF09F00D83B64 /* Compiler.h in Headers */,
+				3BFBED9B164BF09F00D83B64 /* Dispatcher.h in Headers */,
+				3BFBED9D164BF09F00D83B64 /* Error.h in Headers */,
+				3BFBED9F164BF09F00D83B64 /* FNString.h in Headers */,
+				3BFBEDA1164BF09F00D83B64 /* Fuzzy.h in Headers */,
+				3BFBEDA3164BF09F00D83B64 /* GBAObject.h in Headers */,
+				3BFBEDA5164BF09F00D83B64 /* HashTable.h in Headers */,
+				3BFBEDA7164BF09F00D83B64 /* HashTableStrings.h in Headers */,
+				3BFBEDA9164BF09F00D83B64 /* GBAChunk.h in Headers */,
+				3BFBEDAB164BF09F00D83B64 /* GBAMemory.h in Headers */,
+				3BFBEDAD164BF09F00D83B64 /* GBAutil.h in Headers */,
+				3BFBEDAE164BF09F00D83B64 /* MemChunk.h in Headers */,
+				3BFBEDB0164BF09F00D83B64 /* Memory.h in Headers */,
+				3BFBEDB2164BF09F00D83B64 /* MethodName.h in Headers */,
+				3BFBEDB4164BF09F00D83B64 /* MethodNameArray.h in Headers */,
+				3BFBEDB6164BF09F00D83B64 /* ObjectLocator.h in Headers */,
+				3BFBEDB8164BF09F00D83B64 /* ParseString.h in Headers */,
+				3BFBEDBA164BF09F00D83B64 /* Scanner.h in Headers */,
+				3BFBEDBC164BF09F00D83B64 /* scansystem.h in Headers */,
+				3BFBEDBE164BF09F00D83B64 /* Status.h in Headers */,
+				3BFBEDC0164BF09F00D83B64 /* TypeName.h in Headers */,
+				3BFBEDC2164BF09F00D83B64 /* TypeNameArray.h in Headers */,
+				3BFBEDCB164BF0DA00D83B64 /* FileBuffer.h in Headers */,
+				3BCA48AA16551A6400466DA2 /* Data.h in Headers */,
+				3BCA48AC16551A6400466DA2 /* DataArray.h in Headers */,
+				3BCA48B216551A7200466DA2 /* Object.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC045055464E500DB518D /* libobjcgbarm.xcode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB91EB08733DB70010E9CD /* Build configuration list for PBXNativeTarget "libobjcgbarm.xcode" */;
+			buildPhases = (
+				D2AAC043055464E500DB518D /* Headers */,
+				D2AAC044055464E500DB518D /* Sources */,
+				D289987405E68DCB004EDB86 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = libobjcgbarm.xcode;
+			productName = libobjcgbarm.xcode;
+			productReference = D2AAC046055464E500DB518D /* liblibobjcgbarm.xcode.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB91EF08733DB70010E9CD /* Build configuration list for PBXProject "libobjcgbarm.xcode" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 08FB7794FE84155DC02AAC07 /* libobjcgbarm.xcode */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC045055464E500DB518D /* libobjcgbarm.xcode */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC044055464E500DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BFBED90164BF09F00D83B64 /* ArmCompiler.m in Sources */,
+				3BFBED92164BF09F00D83B64 /* ArmScanner.m in Sources */,
+				3BFBED94164BF09F00D83B64 /* ArmSubCompiler.m in Sources */,
+				3BFBED96164BF09F00D83B64 /* ArmSubScanner.m in Sources */,
+				3BFBED98164BF09F00D83B64 /* ClassLocator.m in Sources */,
+				3BFBED9A164BF09F00D83B64 /* Compiler.m in Sources */,
+				3BFBED9C164BF09F00D83B64 /* Dispatcher.m in Sources */,
+				3BFBED9E164BF09F00D83B64 /* Error.m in Sources */,
+				3BFBEDA0164BF09F00D83B64 /* FNString.m in Sources */,
+				3BFBEDA2164BF09F00D83B64 /* Fuzzy.m in Sources */,
+				3BFBEDA4164BF09F00D83B64 /* GBAObject.m in Sources */,
+				3BFBEDA6164BF09F00D83B64 /* HashTable.m in Sources */,
+				3BFBEDA8164BF09F00D83B64 /* HashTableStrings.m in Sources */,
+				3BFBEDAA164BF09F00D83B64 /* GBAChunk.m in Sources */,
+				3BFBEDAC164BF09F00D83B64 /* GBAMemory.m in Sources */,
+				3BFBEDAF164BF09F00D83B64 /* MemChunk.m in Sources */,
+				3BFBEDB1164BF09F00D83B64 /* Memory.m in Sources */,
+				3BFBEDB3164BF09F00D83B64 /* MethodName.m in Sources */,
+				3BFBEDB5164BF09F00D83B64 /* MethodNameArray.m in Sources */,
+				3BFBEDB7164BF09F00D83B64 /* ObjectLocator.m in Sources */,
+				3BFBEDB9164BF09F00D83B64 /* ParseString.m in Sources */,
+				3BFBEDBB164BF09F00D83B64 /* Scanner.m in Sources */,
+				3BFBEDBD164BF09F00D83B64 /* scansystem.m in Sources */,
+				3BFBEDBF164BF09F00D83B64 /* Status.m in Sources */,
+				3BFBEDC1164BF09F00D83B64 /* TypeName.m in Sources */,
+				3BFBEDC3164BF09F00D83B64 /* TypeNameArray.m in Sources */,
+				3BFBEDCC164BF0DA00D83B64 /* FileBuffer.m in Sources */,
+				3BCA48AB16551A6400466DA2 /* Data.m in Sources */,
+				3BCA48AD16551A6400466DA2 /* DataArray.m in Sources */,
+				3BCA48B316551A7200466DA2 /* Object.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB91EC08733DB70010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = libobjcgbarm.xcode;
+			};
+			name = Debug;
+		};
+		1DEB91ED08733DB70010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = libobjcgbarm.xcode;
+			};
+			name = Release;
+		};
+		1DEB91F008733DB70010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		1DEB91F108733DB70010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB91EB08733DB70010E9CD /* Build configuration list for PBXNativeTarget "libobjcgbarm.xcode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91EC08733DB70010E9CD /* Debug */,
+				1DEB91ED08733DB70010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB91EF08733DB70010E9CD /* Build configuration list for PBXProject "libobjcgbarm.xcode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91F008733DB70010E9CD /* Debug */,
+				1DEB91F108733DB70010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

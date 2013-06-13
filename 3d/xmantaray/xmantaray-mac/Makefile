@@ -1,0 +1,49 @@
+.SUFFIXES : .o .cc .c
+
+CC = g++
+CFLAGS = -g
+INCLUDES = -I/usr/X11R6/include
+LIBS = -L/usr/X11R6/lib -lX11 -lXpm -lXext -lpthread -L./lib -llua -L./xlua -lxlua -L./raymanta -lraymanta
+# -ljpeg -lpng -L./widget -lPixieWidget -lImlib
+###OBJS = RayMantaWindow.o WindowManager.o  Xmanager.o RayMantaImage.o RayMantaPoint.o RayMantaMatrix.o RayMantaMatrix3.o RayMantaMatrix4.o RayMantaNet.o RayMantaNetPthread.o RayMantaGA.o RayMantaNetMarkov2.o Boltzman.o RayMantaEngine.o RayMantaModel.o RayMantaSphereModel.o RayMantaPolygon.o RayMantaPolygonModel.o RayMantaImageBase.o RayMantaPixmapImage.o RayMantaTextureModel.o RayMantaPixmapTextureModel.o RayMantaTexture.o RayMantaPixmapTexture.o RayMantaBaseVisit.o RayMantaXNet.o keywords.o RayMantaPixmapTextureModelFill.o RayMantaPixmapTextureModelRotate.o RayMantaSpiderTexture.o RayMantaSpiderModel.o
+
+###FIXME add RayMantaNetMarkov.o
+
+###FIXME RayManta: debug xlua $(OBJS) main.o
+all: RayManta RayMantaRayTracer RayMantaProducerSystem
+
+RayManta: debug xlua raymanta $(OBJS) main.o
+###	@echo "***COMPILER NOTE*** Please include RayMantaNetMarkov.o inside this Makefile for Markov networking (RayMantaNetMarkov2.o is already included.)"
+	$(CC) $(CFLAGS) $(INCLUDES) $(OBJS) -o xmantaray  $(LIBS) main.o
+
+RayMantaRayTracer: debug xlua raymanta $(OBJS) mainray.o
+###	@echo "***COMPILER NOTE*** Please include RayMantaNetMarkov.o inside this Makefile for Markov networking (RayMantaNetMarkov2.o is already included.)"
+	$(CC) $(CFLAGS) $(INCLUDES) $(OBJS) -o xmantaraytracer  $(LIBS) mainray.o
+
+RayMantaProducerSystem: debug xlua raymanta $(OBJS) mainproducer.o
+###	@echo "***COMPILER NOTE*** Please include RayMantaNetMarkov.o inside this Makefile for Markov networking (RayMantaNetMarkov2.o is already included.)"
+	$(CC) $(CFLAGS) $(INCLUDES) $(OBJS) -o xmantarayproducer  $(LIBS) mainproducer.o
+
+debug:
+	@echo Constructing config.h
+	@rm -f config.h
+	@echo '#define	DEBUG' >> config.h
+	@echo "***COMPILER NOTE*** The liblua path and link might have to be changed to your liblua install path. There is a liblua.a library inside ./lib which you can overwrite."
+
+raymanta : $(OBJS) 
+	cd raymanta; $(MAKE) $(MFLAGS)
+
+xlua : $(OBJS) 
+	cd xlua; $(MAKE) $(MFLAGS)
+
+test : $(OBJS) 
+	cd test; $(MAKE) $(MFLAGS)
+
+clean: 
+	rm *.o xmantaray xmantaraytracer xmantarayproducer config.h ./xlua/*.o ./xlua/*.so ./xlua/*.a ./test/*.so ./test/*.o ./test/test1 ./raymanta/*.o ./raymanta/*.a ./raymanta/*.so *.o;
+
+.cpp.o:
+	$(CXX) $(CFLAGS) $< -o $@
+
+.cc.o :
+	$(CC) $(CFLAGS) $(INLCUDES) -c $<

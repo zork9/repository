@@ -1,0 +1,7 @@
+. put each clause before a weenie (;) on a seperate line
+. use block scope for garbage collecting registers
+. put parameter values in seperate registers (r0-r31) for ARM asm,
+	and access them faster by implmenting in the arm symboltable
+	update registernumbers in symbol table according to which are free (__garbage collected__) and change them to new register numbers wherte they are -1 as a registernumber, see SymbolTableArm.*
+. recycle register numbers for arm asm with group theory
+. !!! do not use r0 for str regs all the time, use the register number (getFreeReg...]

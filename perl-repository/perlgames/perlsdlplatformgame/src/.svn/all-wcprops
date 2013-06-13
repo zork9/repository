@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-gen/!svn/ver/24724/perl-repository/perlgames/perlsdlplatformgame/src
+END
+Bullet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/22698/perl-repository/perlgames/perlsdlplatformgame/src/Bullet.pm
+END
+Game.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/22698/perl-repository/perlgames/perlsdlplatformgame/src/Game.pl
+END
+StateImageLibrary.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-gen/!svn/ver/22698/perl-repository/perlgames/perlsdlplatformgame/src/StateImageLibrary.pm
+END
+Player.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/22698/perl-repository/perlgames/perlsdlplatformgame/src/Player.pm
+END
+Map.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/22698/perl-repository/perlgames/perlsdlplatformgame/src/Map.pm
+END
+BoundingBox.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn-gen/!svn/ver/22698/perl-repository/perlgames/perlsdlplatformgame/src/BoundingBox.pm
+END
+Test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/24724/perl-repository/perlgames/perlsdlplatformgame/src/Test.pl
+END
+Gateway.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/22698/perl-repository/perlgames/perlsdlplatformgame/src/Gateway.pm
+END

@@ -1,0 +1,12 @@
+
+In raymanta and xlua directories :
+run 'make'
+
+There is a small demo program built in the raymanta directory.
+
+Compiling Notes:
+_______________
+Note that liblua.a is included here and has to be replaced with the required
+architecture. The include directory includes lua-5.1.4 header files
+for easy use. liblua is a static object archive as compiled as in the
+lua tarball's INSTALL/README files.

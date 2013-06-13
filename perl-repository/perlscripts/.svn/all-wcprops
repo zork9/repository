@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn-gen/!svn/ver/24732/perl-repository/perlscripts
+END
+changewordindir.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/24732/perl-repository/perlscripts/changewordindir.pl
+END
+changeword.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/24732/perl-repository/perlscripts/changeword.pl
+END
+changewordstdin.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/24732/perl-repository/perlscripts/changewordstdin.pl
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey
+END
+runnet.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/runnet.lisp
+END
+synaps.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/synaps.lisp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/19525/lisp-underground/tmasterkey/AUTHORS
+END
+mainnn.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/mainnn.lisp
+END
+main.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/main.lisp
+END
+net.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/net.lisp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/19525/lisp-underground/tmasterkey/README
+END
+mainfuzzy.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/mainfuzzy.lisp
+END
+agent.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/agent.lisp
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/19525/lisp-underground/tmasterkey/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/19525/lisp-underground/tmasterkey/COPYING
+END
+fuzzyset.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/fuzzyset.lisp
+END
+main.lis
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/main.lis
+END
+fuzzyparser.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/fuzzyparser.lisp
+END
+dictionary.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/dictionary.lisp
+END
+neuron.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/neuron.lisp
+END
+fuzzyworddatabaseutil.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/fuzzyworddatabaseutil.lisp
+END
+fuzzyworddatabase.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn-gen/!svn/ver/20485/lisp-underground/tmasterkey/fuzzyworddatabase.lisp
+END

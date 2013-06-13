@@ -1,0 +1,2 @@
+(defun fun (xxx) (+ 5 6))
+(fun (when (< 1 2) (+ 7 8)))

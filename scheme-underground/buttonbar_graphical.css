@@ -1,0 +1,60 @@
+body
+{
+	background-color:lightgrey;
+}
+div.foo
+{
+	background-color:grey;
+	position:relative;
+	top:70px;
+	left:125px;
+	z-index:1;
+	border:2px solid green;
+}
+ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	align:center;
+}
+div.bar
+{
+	margin:0;
+	padding:0;
+	position:absolute;
+	align:right;
+	border:12px solid green;
+}
+div.baz
+{
+	margin:10;
+	padding:10;
+	position:relative;
+	align:down;
+	border:2px solid green;
+li
+{
+display:inline;
+}
+.center
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+	background-color:grey;	
+
+}
+img.fixedpos
+{
+	position:fixed;
+	top:30px;
+	left:5px;
+	z-index:-3;
+	height:70%;
+	width:30%;
+}
+a
+{
+#background-color:grey;
+}

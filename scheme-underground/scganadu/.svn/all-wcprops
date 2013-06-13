@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn-gen/!svn/ver/20484/scheme-underground/scganadu
+END
+b-tree.scm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/20484/scheme-underground/scganadu/b-tree.scm
+END
+packages.scm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19493/scheme-underground/scganadu/packages.scm
+END
+load.scm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20484/scheme-underground/scganadu/load.scm
+END
+xml.scm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/20484/scheme-underground/scganadu/xml.scm
+END
+scganaduutil.scm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/20484/scheme-underground/scganadu/scganaduutil.scm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/19493/scheme-underground/scganadu/AUTHORS
+END
+BLURB
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn-gen/!svn/ver/19493/scheme-underground/scganadu/BLURB
+END
+scganadu.scm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/20484/scheme-underground/scganadu/scganadu.scm
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/20484/scheme-underground/scganadu/COPYING
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/19493/scheme-underground/scganadu/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/19493/scheme-underground/scganadu/README
+END
+pkg-def.scm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/19493/scheme-underground/scganadu/pkg-def.scm
+END
+xml-tree.scm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/20484/scheme-underground/scganadu/xml-tree.scm
+END

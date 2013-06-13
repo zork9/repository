@@ -1,0 +1,271 @@
+
+;; Copyright (C) Johan Ceuppens 2011-2012
+;; This program is free software: you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation, either version 2 of the License, or
+;; (at your option) any later version.
+
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; You should have received a copy of the GNU General Public License
+;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+;;Copyright (c) 2011-2012, Johan Ceuppens
+;;All rights reserved.
+
+;;Redistribution and use in source and binary forms, with or without
+;;modification, are permitted provided that the following conditions are met:
+;;1. Redistributions of source code must retain the above copyright
+;;   notice, this list of conditions and the following disclaimer.
+;;2. Redistributions in binary form must reproduce the above copyright
+;;   notice, this list of conditions and the following disclaimer in the
+;;   documentation and/or other materials provided with the distribution.
+;;3. All advertising materials mentioning features or use of this software
+;;   must display the following acknowledgement:
+;;   This product includes software developed by the Johan Ceuppens.
+;;4. Neither the name of the Johan Ceuppens nor the
+;;   names of its contributors may be used to endorse or promote products
+;;   derived from this software without specific prior written permission.
+
+;;THIS SOFTWARE IS PROVIDED BY Johan Ceuppens ''AS IS'' AND ANY
+;;EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+;;WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+;;DISCLAIMED. IN NO EVENT SHALL Johan Ceuppens BE LIABLE FOR ANY
+;;DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+;;(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+;;LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+;;ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+;;(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+;;SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+(load "scgame.scm")
+
+
+
+
+(define (make-widget-tree)
+  '())
+
+(define (make-widget-tree-leaf widget)
+  (delay widget))
+
+(define (widget-leaf? n)
+  (and (widget? n)(not (list? n))))
+
+(define (make-widget-tree-node widgetlist)
+  (delay widgetlist))
+
+(define (widget-node? n)
+  (and (not (widget? n))(list? n)))
+
+(define (widget-tree-add! tree n)
+  (set! tree (append tree (list n))))
+
+(define (widget-node-add! node n)
+  (set! node (append node (list n))))
+
+(define (widget-node-collide? node x y)
+  (define (frec l)
+    (cond ((null? l) #f)
+          ((list? (car l))
+           (frec (car l)))
+          ((and (widget? (car l))
+                (>= x (((car l)'get-x)))
+                (<= x (+ (((car l)'get-x)))(((car l)'get-w)))
+                (>= y (((car l)'get-y)))
+                (<= y (+ (((car l)'get-y)))(((car l)'get-h))))
+           (car l))
+          (else (frec (cdr l)))))
+
+  (if (widget-node? node)
+      (for-each frec (force node))
+      #f))
+
+(define (widget-leaf-collide? leaf x y)
+  (if (widget-leaf? leaf)
+      (cond ((and (widget? leaf)
+                  (>= x ((leaf 'get-x)))
+                  (<= x (+ ((leaf 'get-x)))((leaf 'get-w)))
+                  (>= y ((leaf 'get-y)))
+                  (<= y (+ ((leaf 'get-y)))((leaf 'get-h))))
+             #t))
+      #f))
+
+(define (draw-widget-tree widget-tree)
+  (define (frec l)
+    (cond ((null? l) #f)
+          ((list? (car l))
+           (frec (car l)))
+          ((widget? (car l))
+           (((car l) 'draw)))
+          (else (frec (cdr l)))))
+
+  (if (widget-node? node)
+      (for-each frec (force node))
+      #f))
+
+
+
+
+(define (make-scgame-widget)
+  (define (draw)
+    (display-msg "widget - draw - subclass responsability"))
+
+  (define (widget?)
+    #t)
+
+  (define (get-x)
+    (display-msg "widget - get-x - subclass responsability")
+    0)
+
+  (define (get-y)
+    (display-msg "widget - get-y - subclass responsability")
+    0)
+
+  (define (get-w)
+    (display-msg "widget - get-w - subclass responsability")
+    0)
+
+  (define (get-h)
+    (display-msg "widget - get-h - subclass responsability")
+    0)
+
+  (lambda (msg)
+    (cond ((eq? msg 'draw) draw)
+          ((eq? msg 'widget?) widget?)
+          (else
+           (display-msg "subclass responsability")))))
+
+(define (make-button-widget xx yy)
+  (let ((widget (make-scgame-widget))
+	(image #f) ;; pixel array
+        (pressed-image #f) ;; pixel array
+        (pressed #f)
+        (x xx)
+        (y yy)
+        (width 0)
+        (height 0))
+
+    (define (get-x)
+      x)
+
+    (define (get-y)
+      y)
+
+    (define (get-w)
+      w)
+
+    (define (get-h)
+      h)
+
+    (define (set-image win filename)
+      (set! image (((make-scimage2)'load-image) win filename))
+      (let ((wh (vector-ref (list->vector image) 1)))
+        (set! width (car wh))
+        (set! height (cadr wh))
+        ))
+
+    (define (set-pressed-image win filename)
+      (set! pressed-image (((make-scimage2)'load-image) win filename))
+      (let ((wh (vector-ref (list->vector image) 1)))
+        (set! width (car wh))
+        (set! height (cadr wh))
+        ))
+
+    (define (draw-pressed-image dpy win gc)
+      (init-sync-x-events dpy)
+      (map-window dpy win)
+      (draw-points dpy win gc (* width height) 0 0
+                   (/ width 2) (/ height 2)))
+
+    ;; NOTE : you can remap a button (image) to a new window win if you like
+    (define (draw-image dpy win gc)
+      (init-sync-x-events dpy)
+      (map-window dpy win)
+      (draw-points dpy win gc (* width height) 0 0
+                   (/ width 2) (/ height 2)))
+
+    (define (draw-points dpy win gc count x y)
+      (if (zero? (modulo count 100))
+          (display-flush dpy))
+      (if (not (zero? count))
+          (let ((xf (floor (* (+ 1.2 x) width))) ; These lines center the picture
+                (yf (floor (* (+ 0.5 y) height))))
+            (draw-point dpy win gc (inexact->exact xf) (inexact->exact yf))
+            (draw-points dpy win gc ;; FIXME1
+                         (- count 1)
+                         (- (* y (+ 1 (sin (* 0.7 x))))
+                            (* 1.2 (sqrt (abs x))))
+                         (- 0.21 x)
+                         width height))))
+
+    (define (draw)
+      (if pressed
+          (draw-image)
+          (draw-pressed-image))
+      (map-window dpy win))
+
+    (define (press!)
+      (press-button dpy win gc)
+      (set! pressed #t))
+
+    (define (release!)
+      (release-button dpy win gc)
+      (set! pressed #f))
+
+
+    (lambda (msg)
+      (cond ((eq? 'set-image) set-image)
+            ((eq? 'set-pressed-image) set-pressed-image)
+            ((eq? 'press!) press!)
+            ((eq? 'release!) release!)
+            ((eq? get-x) get-x)
+            ((eq? get-y) get-y)
+            ((eq? get-w) get-w)
+            ((eq? get-h) get-h)
+            ((eq? draw) draw)
+	    (widget msg)
+	    ))))
+
+
+(define (widget-tree-eventloop dpy win tree)
+  (let ((mousex 0))
+    (let ((mousey 0))
+      (let ((widget-tree tree))
+        (init-sync-x-events dpy)
+        (map-window dpy win)
+        (call-with-event-channel
+         dpy win (event-mask button-press)
+         (lambda (channel)
+           ;; FIXME calibrate at 10 times or using nanosleep for your machine
+           (let loop ()
+             (if
+              (let ((e (receive channel)))
+                ;; process events
+                (cond
+                 ((motion-event? e)
+                  (set! mousex motion-event-x)
+                  (set! mousey motion-event-y))
+                 ((map-event? e)
+                  (map-window dpy map-event-window))
+                 ((unmap-event? e)
+                  (unmap-window dpy unmap-event-window))
+                 ((button-event? e)
+                  (let ((state button-event-state))
+                    (let ((widget (widget-node-collide? widget-tree mousex mouse)))
+                      (if state
+                          ((widget 'press!))
+                          ((widget 'release!))))))
+                 ((expose-event? e)
+                  (expose-window dpy expose-event-window))
+                 ((destroy-widow-event? e)
+                  (expose-window dpy destroy-window-event-window))
+                 (else #f))
+                ;; draw widgets in tree
+                (draw-widget-tree widget-tree)
+                ))
+             (loop))))))))
+

@@ -1,0 +1,12 @@
+This game needs LWJGL installed.
+
+run 'javac game/*.java' to compile
+run adapted run.sh to run
+
+keyboard bindings :
+
+arrow keys : move left,up,right,down
+z, x : move in Z-axis forward and backward
+c : multi rotate screen 
+v : zoom in 
+b : zoom out 

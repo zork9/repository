@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua
+END
+xlua.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/xlua.h
+END
+xluanet.h.old
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/xluanet.h.old
+END
+COPYING.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/COPYING.LGPL
+END
+xluacode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/xluacode.cpp
+END
+xlua.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/xlua.cpp
+END
+xluacode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/xluacode.h
+END
+COPYING.GPL3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/COPYING.GPL3
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/Makefile
+END
+xluanet.cpp.old
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn-gen/!svn/ver/19538/3d/xmantaray/xmantaray-mac/xlua/xluanet.cpp.old
+END

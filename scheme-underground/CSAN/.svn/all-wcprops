@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN
+END
+CSAN-util.scm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN/CSAN-util.scm
+END
+CSAN-client.scm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN/CSAN-client.scm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/19493/scheme-underground/CSAN/AUTHORS
+END
+CSAN-server-daemon-record.scm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN/CSAN-server-daemon-record.scm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn-gen/!svn/ver/19493/scheme-underground/CSAN/README
+END
+pkg-def.scm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/19493/scheme-underground/CSAN/pkg-def.scm
+END
+packages.scm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/19493/scheme-underground/CSAN/packages.scm
+END
+load.scm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN/load.scm
+END
+CSAN.scm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN/CSAN.scm
+END
+BLURB
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn-gen/!svn/ver/19493/scheme-underground/CSAN/BLURB
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/20481/scheme-underground/CSAN/COPYING
+END
+CSAN-server.scm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN/CSAN-server.scm
+END
+CSAN-server-daemon.scm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN/CSAN-server-daemon.scm
+END
+htmldump.scm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20482/scheme-underground/CSAN/htmldump.scm
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn-gen/!svn/ver/19493/scheme-underground/CSAN/NEWS
+END

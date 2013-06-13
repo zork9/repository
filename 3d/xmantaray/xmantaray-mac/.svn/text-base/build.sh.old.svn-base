@@ -1,0 +1,2 @@
+g++ -c main2.cc
+g++ -o ray main2.o  -L/usr/X11R6/lib -lX11 -lXext 

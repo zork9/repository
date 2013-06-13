@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn-gen/!svn/ver/20484/scheme-underground/thttpd
+END
+packages.scm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/19493/scheme-underground/thttpd/packages.scm
+END
+load.scm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/20484/scheme-underground/thttpd/load.scm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn-gen/!svn/ver/19493/scheme-underground/thttpd/AUTHORS
+END
+BLURB
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/19493/scheme-underground/thttpd/BLURB
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn-gen/!svn/ver/20484/scheme-underground/thttpd/COPYING
+END
+thttpdaemon.scm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/20484/scheme-underground/thttpd/thttpdaemon.scm
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn-gen/!svn/ver/19493/scheme-underground/thttpd/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/19493/scheme-underground/thttpd/README
+END
+pkg-def.scm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/19493/scheme-underground/thttpd/pkg-def.scm
+END

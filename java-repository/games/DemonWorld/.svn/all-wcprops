@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/22770/java-repository/games/DemonWorld
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/22770/java-repository/games/DemonWorld/compile.sh
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/22770/java-repository/games/DemonWorld/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/22770/java-repository/games/DemonWorld/TODO
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/22770/java-repository/games/DemonWorld/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/22770/java-repository/games/DemonWorld/README
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/22770/java-repository/games/DemonWorld/run.sh
+END

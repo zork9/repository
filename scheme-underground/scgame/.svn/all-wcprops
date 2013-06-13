@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn-gen/!svn/ver/20484/scheme-underground/scgame
+END
+packages.scm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/19493/scheme-underground/scgame/packages.scm
+END
+scgame.scm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20484/scheme-underground/scgame/scgame.scm
+END
+test.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/19493/scheme-underground/scgame/test.xpm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn-gen/!svn/ver/19493/scheme-underground/scgame/AUTHORS
+END
+BLURB
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/19493/scheme-underground/scgame/BLURB
+END
+config.scm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20484/scheme-underground/scgame/config.scm
+END
+scgamewidgets.scm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/20484/scheme-underground/scgame/scgamewidgets.scm
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn-gen/!svn/ver/20484/scheme-underground/scgame/COPYING
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn-gen/!svn/ver/19493/scheme-underground/scgame/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/19493/scheme-underground/scgame/README
+END
+pkg-def.scm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/19493/scheme-underground/scgame/pkg-def.scm
+END
+scgamedictionaries.scm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-gen/!svn/ver/20484/scheme-underground/scgame/scgamedictionaries.scm
+END
+scgameutil.scm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/20484/scheme-underground/scgame/scgameutil.scm
+END

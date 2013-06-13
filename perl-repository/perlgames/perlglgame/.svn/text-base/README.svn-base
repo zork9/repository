@@ -1,0 +1,19 @@
+This project needs the CPAN OpenGL, OpenGL::Image and PNG::Image modules 
+
+If you do not have these modules,
+run the following commands in a shell :
+
+perl -MCPAN -e 'install OpenGL';
+perl -MCPAN -e 'install OpenGL::Image;'
+perl -MCPAN -e 'install Image::PNG';
+
+To run the game :
+
+perl src/Game.pl;
+
+or 
+
+perl src/Gamewithglut.pl;
+
+keyboard bindings:
+

@@ -1,0 +1,157 @@
+
+;; Copyright (C) Johan Ceuppens 2011-2012
+;; This program is free software: you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation, either version 2 of the License, or
+;; (at your option) any later version.
+
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; You should have received a copy of the GNU General Public License
+;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+;;Copyright (c) 2011-2012, Johan Ceuppens
+;;All rights reserved.
+
+;;Redistribution and use in source and binary forms, with or without
+;;modification, are permitted provided that the following conditions are met:
+;;1. Redistributions of source code must retain the above copyright
+;;   notice, this list of conditions and the following disclaimer.
+;;2. Redistributions in binary form must reproduce the above copyright
+;;   notice, this list of conditions and the following disclaimer in the
+;;   documentation and/or other materials provided with the distribution.
+;;3. All advertising materials mentioning features or use of this software
+;;   must display the following acknowledgement:
+;;   This product includes software developed by the Johan Ceuppens.
+;;4. Neither the name of the Johan Ceuppens nor the
+;;   names of its contributors may be used to endorse or promote products
+;;   derived from this software without specific prior written permission.
+
+;;THIS SOFTWARE IS PROVIDED BY Johan Ceuppens ''AS IS'' AND ANY
+;;EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+;;WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+;;DISCLAIMED. IN NO EVENT SHALL Johan Ceuppens BE LIABLE FOR ANY
+;;DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+;;(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+;;LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+;;ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+;;(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+;;SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Listing of compilation of file /Users/prog/lisp/tmasterkey/main.lisp
+on 2011-09-07 20:16:23 by CLISP, version 2.49 (2010-07-07) (built 3524376497) (memory 3524377694)
+
+Disassembly of function #:|1 16 (LOAD "net.lisp")-1|
+(CONST 0) = "net.lisp"
+(CONST 1) = LOAD
+0 required arguments
+0 optional arguments
+No rest parameter
+No keyword parameters
+3 byte-code instructions:
+0     (CONST&PUSH 0)                      ; "net.lisp"
+1     (CALL1 1)                           ; LOAD
+3     (SKIP&RET 1)
+WARNING: in #:|18 37 (LET (# # #) (DEFUN GENERATE-NEURONS-MAIN # ...) ...)-2|
+         in lines 18..37 : LAYERS is neither declared nor bound,
+         it will be treated as if it were declared SPECIAL.
+WARNING: in #:|18 37 (LET (# # #) (DEFUN GENERATE-NEURONS-MAIN # ...) ...)-2|
+         in lines 18..37 : LAYERS is neither declared nor bound,
+         it will be treated as if it were declared SPECIAL.
+WARNING: in #:|18 37 (LET (# # #) (DEFUN GENERATE-NEURONS-MAIN # ...) ...)-2|
+         in lines 18..37 : LAYERS is neither declared nor bound,
+         it will be treated as if it were declared SPECIAL.
+WARNING: in #:|18 37 (LET (# # #) (DEFUN GENERATE-NEURONS-MAIN # ...) ...)-2|
+         in lines 18..37 : LAYERS is neither declared nor bound,
+         it will be treated as if it were declared SPECIAL.
+WARNING: in #:|18 37 (LET (# # #) (DEFUN GENERATE-NEURONS-MAIN # ...) ...)-2|
+         in lines 18..37 : LAYERS is neither declared nor bound,
+         it will be treated as if it were declared SPECIAL.
+WARNING: in FA in lines 18..37 : variable MAKE-AGENT is not used.
+         Misspelled or missing IGNORE declaration?
+
+Disassembly of function #:|18 37 (LET (# # #) (DEFUN GENERATE-NEURONS-MAIN # ...) ...)-2|
+(CONST 0) = GENERATE-NEURONS-MAIN
+(CONST 1) = SYSTEM::REMOVE-OLD-DEFINITIONS
+(CONST 2) = #<COMPILED-FUNCTION GENERATE-NEURONS-MAIN>
+(CONST 3) = 10
+(CONST 4) = LAYERS
+(CONST 5) = "layers>"
+(CONST 6) = "agent.lisp"
+(CONST 7) = LOAD
+(CONST 8) = FA
+(CONST 9) = #<COMPILED-FUNCTION FA>
+(CONST 10) = ((LIST 'INIT "123"))
+0 required arguments
+0 optional arguments
+No rest parameter
+No keyword parameters
+reads special variable: LAYERS
+writes special variable: LAYERS
+40 byte-code instructions:
+0     (CONST&PUSH 0)                      ; GENERATE-NEURONS-MAIN
+1     (CALL1 1)                           ; SYSTEM::REMOVE-OLD-DEFINITIONS
+3     (CONST&PUSH 0)                      ; GENERATE-NEURONS-MAIN
+4     (CONST&PUSH 2)                      ; #
+5     (CALLS2 156)                        ; SYSTEM::%PUTD
+7     (CONST&PUSH 3)                      ; 10
+8     (CONST&PUSH 3)                      ; 10
+9     (CONST&PUSH 3)                      ; 10
+10    (CALL 3 0)                          ; GENERATE-NEURONS-MAIN
+13    (SETVALUE 4)                        ; LAYERS
+15    (CONST&PUSH 5)                      ; "layers>"
+16    (PUSH-UNBOUND 1)
+18    (CALLS1 142)                        ; PRINT
+20    (GETVALUE&PUSH 4)                   ; LAYERS
+22    (PUSH-UNBOUND 1)
+24    (CALLS1 142)                        ; PRINT
+26    (CONST&PUSH 6)                      ; "agent.lisp"
+27    (CALL1 7)                           ; LOAD
+29    (CONST&PUSH 8)                      ; FA
+30    (CALL1 1)                           ; SYSTEM::REMOVE-OLD-DEFINITIONS
+32    (CONST&PUSH 8)                      ; FA
+33    (CONST&PUSH 9)                      ; #<COMPILED-FUNCTION FA>
+34    (CALLS2 156)                        ; SYSTEM::%PUTD
+36    (NIL&PUSH)
+37    (CONST&PUSH 10)                     ; ((LIST 'INIT "123"))
+38    (JMP L52)
+40    L40
+40    (LOAD&CAR&PUSH 0)
+42    (LOAD&CAR&PUSH 0)
+44    (CALL1&PUSH 8)                      ; FA
+46    (LOAD&CONS&STORE 2)
+48    (SKIP 1)
+50    (LOAD&CDR&STORE 0)
+52    L52
+52    (LOAD&PUSH 0)
+53    (CALLS1&JMPIFNOT 159 L40)           ; ENDP
+56    (SKIP 1)
+58    (LOAD&PUSH 0)
+59    (CALLS1 177)                        ; SYSTEM::LIST-NREVERSE
+61    (SKIP&RET 2)
+
+Disassembly of function GENERATE-NEURONS-MAIN
+(CONST 0) = GENERATE-NEURONS
+(CONST 1) = MAKE-NET
+3 required arguments
+0 optional arguments
+No rest parameter
+No keyword parameters
+6 byte-code instructions:
+0     (CONST&PUSH 0)                      ; GENERATE-NEURONS
+1     (LOAD&PUSH 4)
+2     (LOAD&PUSH 4)
+3     (LOAD&PUSH 4)
+4     (CALL 4 1)                          ; MAKE-NET
+7     (SKIP&RET 4)
+
+Disassembly of function FA
+1 required argument
+0 optional arguments
+No rest parameter
+No keyword parameters
+2 byte-code instructions:
+0     (NIL)
+1     (SKIP&RET 2)

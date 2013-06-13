@@ -1,0 +1,5 @@
+- template class instantiations at end of C template class files 
+- insert_after e.g. use iterators here and there
+- move GC gc out of for loops
+- luac++
+- orderof dynamic casts

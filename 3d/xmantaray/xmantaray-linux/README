@@ -1,0 +1,39 @@
+Read INSTALL for compiling xmantaray
+
+XRayManta + PonyParser : A Raytracer research framework
+_______________________________________________________
+
+Try to program games in 2D and 3D and keep them open source
+software for all kids in the world!
+
+2D games: 
+_________
+There are xpm image interfaces with which you can make a 2D game.
+The 3D models together with xpm files can be used for hybrid 2D-3D.
+
+3D games:
+_________
+HACKING NOTE : Try toe override the draw( method of RayManta.cc for 3D
+projects. See the HACKING file.
+
+There are pthread and fork versions (main.fork.cc and main.pthread.cc) but 
+they do not work yet in usual X.
+The Matrix3/Vector3 and Matrix/Vector classes can be used to make markov 
+processing for forked raycasting, a markov process evaluates which
+line to draw first in the framework (See RayMantaNet.cc - 
+function markovpropagate.)
+There is a function generate matrix for Boltzman-statistical time-series
+multi-core propagation (You have to put the RayMantaNet::fork() functions 
+inside the RayMantaNetMarkov2 propagator.)
+
+You can search the propagator of the Markov process with a Genetic Algorithm
+which will search for the correct solution in decision space i.e.
+The GA will converge where drawing points becomes the full raycast/raytraced
+object (int this code a sphere.) There is GA code in RayMantaGA.h/.cc .
+A GA can also be used to calculate the fittest Markov projection/time-series
+matrix.
+
+By using 3D engine code one can easily discern upcoming 3D objects with this
+multi-core raytracer.
+
+The framework can also use a GA instead of Boltzmann matrices (See RayMantaGA.h/.cc)

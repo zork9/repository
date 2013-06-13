@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/22736/perl-repository/perlgames/Yonder/src
+END
+TileMapLevel1.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn-gen/!svn/ver/22732/perl-repository/perlgames/Yonder/src/TileMapLevel1.pm
+END
+Bullet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/22727/perl-repository/perlgames/Yonder/src/Bullet.pm
+END
+StateImageLibrary.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/22727/perl-repository/perlgames/Yonder/src/StateImageLibrary.pm
+END
+TileMap.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn-gen/!svn/ver/22731/perl-repository/perlgames/Yonder/src/TileMap.pm
+END
+Player.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/22727/perl-repository/perlgames/Yonder/src/Player.pm
+END
+Map.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/22727/perl-repository/perlgames/Yonder/src/Map.pm
+END
+BoundingBox.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn-gen/!svn/ver/22727/perl-repository/perlgames/Yonder/src/BoundingBox.pm
+END
+Yonder.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/22736/perl-repository/perlgames/Yonder/src/Yonder.pl
+END
+Gateway.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn-gen/!svn/ver/22727/perl-repository/perlgames/Yonder/src/Gateway.pm
+END
+TileMapLevel.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn-gen/!svn/ver/22732/perl-repository/perlgames/Yonder/src/TileMapLevel.pm
+END
+TileMapWithNumbers.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/22736/perl-repository/perlgames/Yonder/src/TileMapWithNumbers.pm
+END

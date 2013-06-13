@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory
+END
+MemChunk.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/MemChunk.m
+END
+Memory.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/Memory.m
+END
+NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/NOTES.txt
+END
+GBAChunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/GBAChunk.h
+END
+GBAMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/GBAMemory.h
+END
+GBAChunk.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/GBAChunk.m
+END
+GBAMemory.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/GBAMemory.m
+END
+GBAutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/GBAutil.h
+END
+MemChunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/MemChunk.h
+END
+Memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/23734/lisp-underground/arm-lisp/arm-lisp/src/libmemory/Memory.h
+END

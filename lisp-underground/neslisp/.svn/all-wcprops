@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp
+END
+moose.lisp7
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp7
+END
+moose.lisp8
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp8
+END
+moose.lisp9
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp9
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20486/lisp-underground/neslisp/LICENSE
+END
+storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/storage.c
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/types.c
+END
+moose.config
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.config
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/stack.c
+END
+lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/lib.c
+END
+moose.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp
+END
+NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/NOTES
+END
+storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/storage.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/stack.h
+END
+assembly_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/assembly_util.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/README
+END
+symboltable.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/symboltable.c
+END
+moose.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/moose.c
+END
+symboltable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/symboltable.h
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/INSTALL
+END
+moose.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20487/lisp-underground/neslisp/moose.h
+END
+moose.lisp2
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp2
+END
+moose.lisp3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp3
+END
+code.s
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/code.s
+END
+moose.lisp4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp4
+END
+moose.lisp5
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp5
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/Makefile
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/run.sh
+END
+moose.lisp6
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/20404/lisp-underground/neslisp/moose.lisp6
+END

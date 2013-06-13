@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta
+END
+RayMantaRayTracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaRayTracer.h
+END
+RayMantaNetPthread.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNetPthread.cc
+END
+RayMantaNetPthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNetPthread.h
+END
+RayMantaModel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaModel.cc
+END
+RayMantaPixmapImage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapImage.cc
+END
+RayMantaNetMarkov.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNetMarkov.cc
+END
+RayMantaSpiderModel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaSpiderModel.cc
+END
+RayMantaSphereModel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaSphereModel.cc
+END
+RayMantaEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaEngine.h
+END
+RayMantaWindow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaWindow.cc
+END
+RayMantaNetMarkov.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNetMarkov.h
+END
+gnu.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/gnu.xpm
+END
+RayMantaXNet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaXNet.cc
+END
+RayMantaImageBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaImageBase.h
+END
+RayMantaXNet.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaXNet.h
+END
+RayMantaPixmapTextureModelRotate.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapTextureModelRotate.h
+END
+RayMantaTextureModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaTextureModel.h
+END
+RayMantaNet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNet.cc
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/main.cc
+END
+RayMantaMatrix4.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaMatrix4.cc
+END
+RayMantaNet.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNet.h
+END
+RayMantaMatrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaMatrix3.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/Makefile
+END
+RayMantaTexture.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaTexture.cc
+END
+RayMantaPixmapTextureModel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapTextureModel.cc
+END
+RayMantaPixmapImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapImage.h
+END
+RayMantaMatrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaMatrix.cc
+END
+post.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/post.xpm
+END
+RayMantaPolygonModel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPolygonModel.cc
+END
+RayMantaPixmapTextureModelFill.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapTextureModelFill.h
+END
+RayMantaPixmapTextureModelRotate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapTextureModelRotate.cc
+END
+gradient.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/gradient.xpm
+END
+RayManta.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayManta.h
+END
+RayMantaNetBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNetBase.h
+END
+RayMantaMatrix3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaMatrix3.cc
+END
+RayMantaBaseVisit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaBaseVisit.cc
+END
+RayMantaProducerSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaProducerSystem.h
+END
+RayMantaNetMarkov2.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNetMarkov2.h
+END
+RayMantaRayTracer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaRayTracer.cc
+END
+RayManta.rc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayManta.rc
+END
+RayMantaModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaModel.h
+END
+WindowManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/WindowManager.cc
+END
+Xmanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/Xmanager.cc
+END
+RayMantaPixmapTextureModelFill.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapTextureModelFill.cc
+END
+RayMantaSpiderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaSpiderTexture.h
+END
+RayManta.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayManta.cc
+END
+RayMantaPixmapTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapTexture.h
+END
+COPYING.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/COPYING.LGPL
+END
+RayMantaPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPolygon.h
+END
+RayMantaPoint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPoint.cc
+END
+RayMantaGA.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaGA.h
+END
+Boltzman.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/Boltzman.cc
+END
+RayMantaMatrix4.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaMatrix4.h
+END
+RayMantaBaseVisit.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaBaseVisit.h
+END
+RayMantaTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaTexture.h
+END
+RayMantaPixmapTextureModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapTextureModel.h
+END
+RayMantaEngine.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaEngine.cc
+END
+RayMantaMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaMatrix.h
+END
+RayMantaSpiderTexture.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaSpiderTexture.cc
+END
+WindowManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/WindowManager.h
+END
+Xmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/Xmanager.h
+END
+RayMantaSpiderModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaSpiderModel.h
+END
+RayMantaSphereModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaSphereModel.h
+END
+RayMantaWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaWindow.h
+END
+RayMantaPolygonModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPolygonModel.h
+END
+keywords.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/keywords.cc
+END
+keywords.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/keywords.h
+END
+RayMantaImageBase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaImageBase.cc
+END
+RayMantaPixmapTexture.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPixmapTexture.cc
+END
+RayMantaTextureModel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaTextureModel.cc
+END
+RayMantaImage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaImage.cc
+END
+RayMantaImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaImage.h
+END
+RayMantaPolygon.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPolygon.cc
+END
+RayMantaGA.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaGA.cc
+END
+RayMantaProducerSystem.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaProducerSystem.cc
+END
+RayMantaNetMarkov2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaNetMarkov2.cc
+END
+RayMantaPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/RayMantaPoint.h
+END
+Boltzman.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-gen/!svn/ver/19536/3d/xmantaray/xmantaray-linux/raymanta/Boltzman.h
+END

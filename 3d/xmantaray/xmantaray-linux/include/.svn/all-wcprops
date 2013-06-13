@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include
+END
+lmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lmem.h
+END
+lstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lstate.h
+END
+ltm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/ltm.h
+END
+lvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19535/3d/xmantaray/xmantaray-linux/include/lvm.h
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lauxlib.h
+END
+ldebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/ldebug.h
+END
+ltable.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/ltable.h
+END
+llex.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/llex.h
+END
+lgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lgc.h
+END
+lfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lfunc.h
+END
+lua++.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lua++.h
+END
+lparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lparser.h
+END
+lopcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lopcodes.h
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lualib.h
+END
+llimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/llimits.h
+END
+lzio.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lzio.h
+END
+ldo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/ldo.h
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lua.h
+END
+lstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lstring.h
+END
+lobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lobject.h
+END
+lundump.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lundump.h
+END
+lapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lapi.h
+END
+lcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/lcode.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn-gen/!svn/ver/19537/3d/xmantaray/xmantaray-linux/include/luaconf.h
+END

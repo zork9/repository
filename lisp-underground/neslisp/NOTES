@@ -1,0 +1,7 @@
+i- store the labelcounter on the stack and fix labelcounter+1
+- things like (when (< 1 2) 3), 3 does not parse
+- 16 bit values written in 2 times
+- easynes : no anonymous lists
+- write bison replacement
+- add symtab name func must malloc SymtabElt
+- add_symtabname_Withaddress -> impossible

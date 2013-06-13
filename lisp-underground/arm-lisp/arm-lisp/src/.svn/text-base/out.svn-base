@@ -1,0 +1,582 @@
+gcc  -g -I/usr/include/GNUstep -I../include  -c ArmLispCompiler.m -o ArmLispCompiler.o
+ArmLispCompiler.m: In function '-[ArmLispCompiler ctor:]':
+ArmLispCompiler.m:29: warning: incompatible Objective-C types assigning 'struct TypeTable *', expected 'struct SymbolTable *'
+ArmLispCompiler.m:32: warning: incompatible Objective-C types assigning 'struct TypeTable *', expected 'struct OperatorTable *'
+ArmLispCompiler.m:33: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:33: warning: (Messages without a matching method signature
+ArmLispCompiler.m:33: warning: will be assumed to return 'id' and accept
+ArmLispCompiler.m:33: warning: '...' as arguments.)
+ArmLispCompiler.m:34: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:35: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:36: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:37: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:38: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:39: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:40: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:41: warning: no '-defineWithName:andAddress:' method found
+ArmLispCompiler.m:46: warning: incompatible Objective-C types assigning 'struct TypeTable *', expected 'struct ByteCodeMachine *'
+ArmLispCompiler.m:50: warning: incompatible Objective-C types assigning 'struct TypeTable *', expected 'struct ByteCodeMachine *'
+ArmLispCompiler.m:54: warning: incompatible Objective-C types assigning 'struct TypeTable *', expected 'struct ByteCodeMachine *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler grepWord:withIndex:]':
+ArmLispCompiler.m:81: warning: 'FileBuffer' may not respond to '-characterAtIndex:'
+ArmLispCompiler.m:81: warning: initialization makes integer from pointer without a cast
+ArmLispCompiler.m:83: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:83: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:83: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:88: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:88: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:88: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler skipWhiteSpace:withIndex:]':
+ArmLispCompiler.m:103: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:103: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:103: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler searchForWeenie:withIndex:]':
+ArmLispCompiler.m:116: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:116: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:116: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler grepWordOfLine:withIndex:]':
+ArmLispCompiler.m:130: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:130: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:130: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:135: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:135: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:135: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler grepWordOfLineParens:withIndex:]':
+ArmLispCompiler.m:159: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:159: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:159: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:165: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:165: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:165: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:172: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:172: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:172: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler grepFormOrWord:withIndex:]':
+ArmLispCompiler.m:186: warning: passing argument 3 of 'NSLOG3' makes pointer from integer without a cast
+ArmLispCompiler.m: In function '-[ArmLispCompiler grepWordOfLineParensAndChomp:withIndex:]':
+ArmLispCompiler.m:239: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:239: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:239: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:242: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:242: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:242: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:248: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:248: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:248: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler getRestOfForm:withIndex:]':
+ArmLispCompiler.m:263: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:263: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:263: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler getRestOfFormAndChomp:withIndex:]':
+ArmLispCompiler.m:275: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:275: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:275: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler grepWord:OfWord:withIndex:]':
+ArmLispCompiler.m:292: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:292: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:292: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:296: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:296: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:296: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler grepWordOfLine:withWord:withIndex:]':
+ArmLispCompiler.m:322: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:322: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:322: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:326: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:326: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:326: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler grepLine:withIndex:]':
+ArmLispCompiler.m:335: warning: 'FileBuffer' may not respond to '-characterAtIndex:'
+ArmLispCompiler.m:335: warning: initialization makes integer from pointer without a cast
+ArmLispCompiler.m: In function '-[ArmLispCompiler compilablesource:]':
+ArmLispCompiler.m:352: warning: multiple methods named '-ctor:' found
+FileBuffer.h:27: warning: using '-(FileBuffer *)ctor:(NSString *)s'
+WordBase.h:23: warning: also found '-(WordBase *)ctor:(NSString *)n'
+ArmLispCompiler.h:59: warning: also found '-(ArmLispCompiler *)ctor:(MACHINETYPE)i'
+Hex.h:27: warning: also found '-(Hex *)ctor:(Hex *)h'
+ParseString.h:24: warning: also found '-(ParseString *)ctor:(NSString *)s'
+FNString.h:40: warning: also found '-(FNString *)ctor:(NSString *)filename'
+ArmLispCompiler.m:352: warning: incompatible Objective-C types initializing 'struct FileBuffer *', expected 'struct FNString *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFile:withIndex:]':
+ArmLispCompiler.m:370: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseForms:withIndex:]':
+ArmLispCompiler.m:401: warning: incompatible Objective-C types initializing 'struct Form *', expected 'struct FNString *'
+ArmLispCompiler.m:453: warning: 'ArmLispCompiler' may not respond to '-parseFormForIf:'
+ArmLispCompiler.m:453: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:461: warning: 'ArmLispCompiler' may not respond to '-parseFormForDefun:'
+ArmLispCompiler.m:461: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:469: warning: 'ArmLispCompiler' may not respond to '-parseFormForFuncall:'
+ArmLispCompiler.m:469: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseAtom:withIndex:]':
+ArmLispCompiler.m:516: warning: 'ArmLispCompiler' may not respond to '-getTypeOfString:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForDefinition:]':
+ArmLispCompiler.m:586: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:587: warning: incompatible Objective-C types initializing 'struct NSObject *', expected 'struct NSString *'
+ArmLispCompiler.m:589: warning: multiple methods named '-ctor:' found
+FileBuffer.h:27: warning: using '-(FileBuffer *)ctor:(NSString *)s'
+WordBase.h:23: warning: also found '-(WordBase *)ctor:(NSString *)n'
+ArmLispCompiler.h:59: warning: also found '-(ArmLispCompiler *)ctor:(MACHINETYPE)i'
+Hex.h:27: warning: also found '-(Hex *)ctor:(Hex *)h'
+ParseString.h:24: warning: also found '-(ParseString *)ctor:(NSString *)s'
+FNString.h:40: warning: also found '-(FNString *)ctor:(NSString *)filename'
+ArmLispCompiler.m:589: warning: incompatible Objective-C types initializing 'struct FileBuffer *', expected 'struct Hex *'
+ArmLispCompiler.m:592: warning: initialization makes integer from pointer without a cast
+ArmLispCompiler.m:642: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'hasSubForms:' from distinct Objective-C type
+ArmLispCompiler.m:642: warning: initialization makes pointer from integer without a cast
+ArmLispCompiler.m:646: warning: 'ArmLispCompiler' may not respond to '-parseDefinitionOfdefvar:and:'
+ArmLispCompiler.m:675: warning: 'ArmLispCompiler' may not respond to '-parseDefinitionOfsetfq:and:'
+ArmLispCompiler.m:678: warning: 'ArmLispCompiler' may not respond to '-parseDefinitionOfsetfqWithForm:and:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForOperator:]':
+ArmLispCompiler.m:699: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getOperator:' from distinct Objective-C type
+ArmLispCompiler.m:711: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseLineForAssignmentWithOperator:]':
+ArmLispCompiler.m:723: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getString:' from distinct Objective-C type
+ArmLispCompiler.m:727: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:727: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:734: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:734: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:741: warning: 'NSString' may not respond to '-grepWordOfLine:withIndex:'
+ArmLispCompiler.m:743: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getString:' from distinct Objective-C type
+ArmLispCompiler.m:746: warning: 'NSObject' may not respond to '-type'
+ArmLispCompiler.m:746: warning: passing argument 2 of 'checkTypeOf:and:' makes integer from pointer without a cast
+ArmLispCompiler.m:751: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:751: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:754: warning: 'NSString' may not respond to '-grepWordOfLine:withIndex:'
+ArmLispCompiler.m:757: warning: 'NSObject' may not respond to '-address'
+ArmLispCompiler.m:757: warning: 'Hex' may not respond to '+ctor:'
+ArmLispCompiler.m:757: warning: 'Hex' may not respond to '+ctor:'
+ArmLispCompiler.m:757: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'parseOperator:withAddress:andAddress:' from distinct Objective-C type
+ArmLispCompiler.m:759: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:759: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseLineForAssignment:]':
+ArmLispCompiler.m:773: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:773: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForDefun:]':
+ArmLispCompiler.m:780: warning: multiple methods named '-ctor:' found
+FileBuffer.h:27: warning: using '-(FileBuffer *)ctor:(NSString *)s'
+WordBase.h:23: warning: also found '-(WordBase *)ctor:(NSString *)n'
+ArmLispCompiler.h:59: warning: also found '-(ArmLispCompiler *)ctor:(MACHINETYPE)i'
+Hex.h:27: warning: also found '-(Hex *)ctor:(Hex *)h'
+ParseString.h:24: warning: also found '-(ParseString *)ctor:(NSString *)s'
+FNString.h:40: warning: also found '-(FNString *)ctor:(NSString *)filename'
+ArmLispCompiler.m:780: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctor:' from distinct Objective-C type
+ArmLispCompiler.m:780: warning: incompatible Objective-C types initializing 'struct FileBuffer *', expected 'struct Word *'
+ArmLispCompiler.m:783: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:783: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:787: warning: 'ArmLispCompiler' may not respond to '-parseFormForDefunClause:'
+ArmLispCompiler.m:787: warning: comparison between pointer and integer
+ArmLispCompiler.m:789: warning: 'ByteCodeMachine' may not respond to '-getLastLabel'
+ArmLispCompiler.m:792: warning: 'ByteCodeMachine' may not respond to '-pushReturnFromLinkedBranch'
+ArmLispCompiler.m:795: warning: 'ByteCodeMachine' may not respond to '-pushLoopGoto:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForIf:]':
+ArmLispCompiler.m:804: warning: multiple methods named '-ctor:' found
+FileBuffer.h:27: warning: using '-(FileBuffer *)ctor:(NSString *)s'
+WordBase.h:23: warning: also found '-(WordBase *)ctor:(NSString *)n'
+ArmLispCompiler.h:59: warning: also found '-(ArmLispCompiler *)ctor:(MACHINETYPE)i'
+Hex.h:27: warning: also found '-(Hex *)ctor:(Hex *)h'
+ParseString.h:24: warning: also found '-(ParseString *)ctor:(NSString *)s'
+FNString.h:40: warning: also found '-(FNString *)ctor:(NSString *)filename'
+ArmLispCompiler.m:804: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctor:' from distinct Objective-C type
+ArmLispCompiler.m:804: warning: incompatible Objective-C types initializing 'struct FileBuffer *', expected 'struct Word *'
+ArmLispCompiler.m:806: warning: 'Word' may not respond to '-isParensIf'
+ArmLispCompiler.m:807: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:807: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:811: warning: 'ArmLispCompiler' may not respond to '-parseFormForIfClause:'
+ArmLispCompiler.m:811: warning: comparison between pointer and integer
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForLoop:]':
+ArmLispCompiler.m:821: warning: multiple methods named '-ctor:' found
+FileBuffer.h:27: warning: using '-(FileBuffer *)ctor:(NSString *)s'
+WordBase.h:23: warning: also found '-(WordBase *)ctor:(NSString *)n'
+ArmLispCompiler.h:59: warning: also found '-(ArmLispCompiler *)ctor:(MACHINETYPE)i'
+Hex.h:27: warning: also found '-(Hex *)ctor:(Hex *)h'
+ParseString.h:24: warning: also found '-(ParseString *)ctor:(NSString *)s'
+FNString.h:40: warning: also found '-(FNString *)ctor:(NSString *)filename'
+ArmLispCompiler.m:821: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctor:' from distinct Objective-C type
+ArmLispCompiler.m:821: warning: incompatible Objective-C types initializing 'struct FileBuffer *', expected 'struct Word *'
+ArmLispCompiler.m:823: warning: 'Word' may not respond to '-isParensLoop'
+ArmLispCompiler.m:824: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:824: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:828: warning: 'ArmLispCompiler' may not respond to '-parseFormForLoopClause:'
+ArmLispCompiler.m:828: warning: comparison between pointer and integer
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseLineForWhile:]':
+ArmLispCompiler.m:837: warning: 'Word' may not respond to '+ctor:'
+ArmLispCompiler.m:840: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:840: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:845: warning: 'ArmLispCompiler' may not respond to '-parseLineForWhileClause:'
+ArmLispCompiler.m:845: warning: comparison between pointer and integer
+ArmLispCompiler.m:846: warning: 'Hex' may not respond to '+ctor:'
+ArmLispCompiler.m:846: warning: 'ByteCodeMachine' may not respond to '-pushBranch:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForFuncall:]':
+ArmLispCompiler.m:873: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct Form *'
+ArmLispCompiler.m:876: warning: incompatible Objective-C types 'struct Form *', expected 'struct NSString *' when passing argument 1 of 'grepFormOrWord:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:879: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:879: warning: initialization makes integer from pointer without a cast
+ArmLispCompiler.m:890: error: 'symvalue' undeclared (first use in this function)
+ArmLispCompiler.m:890: error: (Each undeclared identifier is reported only once
+ArmLispCompiler.m:890: error: for each function it appears in.)
+ArmLispCompiler.m:897: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:897: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:897: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:897: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:897: warning: 'ArmLispCompiler' may not respond to '-parseDefinitionOfdefvar:and:'
+ArmLispCompiler.m:898: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:898: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:906: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:918: warning: 'ByteCodeMachine' may not respond to '-pushLoopGoto:'
+ArmLispCompiler.m:920: warning: 'ByteCodeMachine' may not respond to '-pushNewLabel:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForLoopClause:]':
+ArmLispCompiler.m:932: warning: 'ByteCodeMachine' may not respond to '-getLastLabel'
+ArmLispCompiler.m:934: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:934: warning: initialization makes integer from pointer without a cast
+ArmLispCompiler.m:935: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:945: warning: passing argument 3 of 'NSLOG3' makes pointer from integer without a cast
+ArmLispCompiler.m:946: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:946: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:955: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:955: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:956: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:958: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:962: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:962: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:967: warning: 'ByteCodeMachine' may not respond to '-pushLoopGoto:'
+ArmLispCompiler.m:972: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:973: warning: 'ByteCodeMachine' may not respond to '-pushLoopGoto:'
+ArmLispCompiler.m:983: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:987: warning: 'ArmLispCompiler' may not respond to '-skipFormAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:987: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:988: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:990: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:993: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:993: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:997: warning: 'ByteCodeMachine' may not respond to '-pushLoopGoto:'
+ArmLispCompiler.m:1002: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:1003: warning: 'ByteCodeMachine' may not respond to '-pushLoopGoto:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForDefunClause:]':
+ArmLispCompiler.m:1019: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1019: warning: initialization makes integer from pointer without a cast
+ArmLispCompiler.m:1025: warning: 'ByteCodeMachine' may not respond to '-pushNewLabel:'
+ArmLispCompiler.m:1027: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1027: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1032: warning: 'ArmLispCompiler' may not respond to '-skipFormAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1032: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1036: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1039: warning: passing argument 4 of 'NSLOG4' makes pointer from integer without a cast
+ArmLispCompiler.m:1058: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseFormForIfClause:]':
+ArmLispCompiler.m:1069: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1069: warning: initialization makes integer from pointer without a cast
+ArmLispCompiler.m:1070: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:1077: warning: 'ArmLispCompiler' may not respond to '-getTypeOfString:'
+ArmLispCompiler.m:1103: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1103: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1104: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:1112: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1112: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1113: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:1129: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:1135: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:1138: warning: 'ArmLispCompiler' may not respond to '-skipFormAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1138: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1150: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1150: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1157: warning: 'ArmLispCompiler' may not respond to '-skipFormAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1157: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1160: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:1168: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:1172: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1172: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1173: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:1181: warning: 'ArmLispCompiler' may not respond to '-skipFormAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1181: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1194: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1194: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1198: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:1202: warning: 'ArmLispCompiler' may not respond to '-skipFormAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1202: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1205: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:1211: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m:1214: warning: 'ArmLispCompiler' may not respond to '-skipFormAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1214: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1227: warning: 'ArmLispCompiler' may not respond to '-skipWordAndWhiteSpace:withIndex:'
+ArmLispCompiler.m:1227: warning: assignment makes integer from pointer without a cast
+ArmLispCompiler.m:1235: warning: incompatible Objective-C types 'struct Form *', expected 'struct FNString *' when passing argument 1 of 'parseForms:withIndex:' from distinct Objective-C type
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseLineForElseClause:]':
+ArmLispCompiler.m:1323: warning: 'Word' may not respond to '+ctor:'
+ArmLispCompiler.m:1328: warning: 'Word' may not respond to '+ctor:'
+ArmLispCompiler.m:1329: warning: 'Word' may not respond to '+ctor:'
+ArmLispCompiler.m:1330: warning: 'Word' may not respond to '+ctor:'
+ArmLispCompiler.m:1333: warning: 'Word' may not respond to '+ctor:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseOperator:form:]':
+ArmLispCompiler.m:1404: warning: initialization makes pointer from integer without a cast
+ArmLispCompiler.m:1437: warning: initialization makes pointer from integer without a cast
+ArmLispCompiler.m:1443: warning: 'ArmLispCompiler' may not respond to '-parseMin:'
+ArmLispCompiler.m:1463: warning: initialization makes pointer from integer without a cast
+ArmLispCompiler.m:1470: warning: 'ArmLispCompiler' may not respond to '-parseMul:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler checkTypeOf:and:]':
+ArmLispCompiler.m:1568: warning: passing argument 1 of 'hasType:' makes pointer from integer without a cast
+ArmLispCompiler.m: In function '-[ArmLispCompiler getTypeOfString:]':
+ArmLispCompiler.m:1579: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m: In function '-[ArmLispCompiler parsehexandset:]':
+ArmLispCompiler.m:1611: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:1611: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:1611: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:1615: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:1615: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:1615: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:1619: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:1619: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:1619: warning: incompatible Objective-C types assigning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseDefinitionOfdeftype:]':
+ArmLispCompiler.m:1636: warning: initialization makes integer from pointer without a cast
+ArmLispCompiler.m:1638: warning: 'TypeTable' may not respond to '-addType:withName:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseDefinitionOfdefvar:and:]':
+ArmLispCompiler.m:1647: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m:1648: warning: 'NSObject' may not respond to '-UTF8String'
+ArmLispCompiler.m:1648: warning: passing argument 1 of 'atoi' from incompatible pointer type
+ArmLispCompiler.m:1650: warning: passing argument 2 of 'NSLOG4' makes pointer from integer without a cast
+ArmLispCompiler.m:1650: warning: passing argument 3 of 'NSLOG4' makes pointer from integer without a cast
+ArmLispCompiler.m:1663: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1665: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1665: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1668: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1668: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1671: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1671: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1674: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1674: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1677: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1677: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1682: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1682: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1691: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1693: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1693: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1696: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1696: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1699: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1699: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1702: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1702: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1705: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1705: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1710: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1710: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseDefinitionOfdefvarWithForm:and:]':
+ArmLispCompiler.m:1725: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m:1740: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1742: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1742: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1745: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1745: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1748: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1748: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1751: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1751: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1754: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1754: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1759: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1759: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1765: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1767: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1767: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1770: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1770: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1773: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1773: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1776: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1776: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1779: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1779: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1784: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1784: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseDefinitionOfsetfq:and:]':
+ArmLispCompiler.m:1798: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m:1799: warning: 'NSObject' may not respond to '-UTF8String'
+ArmLispCompiler.m:1799: warning: passing argument 1 of 'atoi' from incompatible pointer type
+ArmLispCompiler.m:1814: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1814: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:1815: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1817: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1817: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1820: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1820: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1823: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1823: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1826: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1826: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1829: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1829: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1834: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1834: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1838: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:1843: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1843: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:1844: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1846: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1846: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1847: warning: 'NSObject' may not respond to '-UTF8String'
+ArmLispCompiler.m:1847: warning: passing argument 1 of 'atoi' from incompatible pointer type
+ArmLispCompiler.m:1850: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1850: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1854: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1854: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1858: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1858: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1862: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1862: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1868: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1868: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseDefinitionOfsetfqWithForm:and:]':
+ArmLispCompiler.m:1884: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m:1886: warning: passing argument 2 of 'NSLOG3' makes pointer from integer without a cast
+ArmLispCompiler.m:1899: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1901: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1901: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1904: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1904: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1907: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1907: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1910: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1910: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1913: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1913: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1918: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1918: warning: no '-ctorName:form:type:' method found
+ArmLispCompiler.m:1924: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:1926: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1926: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1929: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1929: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1932: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1932: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1935: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1935: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1938: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1938: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m:1943: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'initWithString:' from distinct Objective-C type
+ArmLispCompiler.m:1943: warning: 'SymbolTable' may not respond to '-addObjectExists:form:type:'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseAssignment:withValue:]':
+ArmLispCompiler.m:1955: warning: 'SymbolTable' may not respond to '-set:value:'
+ArmLispCompiler.m:1956: warning: passing argument 1 of 'setNumber:' makes integer from pointer without a cast
+ArmLispCompiler.m:1956: warning: passing argument 1 of 'setNumber:' makes integer from pointer without a cast
+ArmLispCompiler.m: In function '-[ArmLispCompiler hasSubForms:]':
+ArmLispCompiler.m:2026: warning: conflicting types for '-(TupleInt *)hasSubForms:(NSString *)formstring'
+ArmLispCompiler.h:89: warning: previous declaration of '-(int)hasSubForms:(NSString *)formstring'
+ArmLispCompiler.m:2033: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:2033: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:2033: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:2038: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:2038: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:2038: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m:2040: warning: multiple methods named '-addFirst:andSecond:' found
+Tuple.h:28: warning: using '-(Tuple *)addFirst:(NSObject *)fst andSecond:(NSObject *)snd'
+TupleInt.h:28: warning: also found '-(TupleInt *)addFirst:(int)fst andSecond:(NSObject *)snd'
+ArmLispCompiler.m:2040: warning: passing argument 1 of 'addFirst:andSecond:' makes pointer from integer without a cast
+ArmLispCompiler.m:2040: warning: incompatible Objective-C types returning 'struct Tuple *', expected 'struct TupleInt *'
+ArmLispCompiler.m: In function '-[ArmLispCompiler parsePlus:]':
+ArmLispCompiler.m:2046: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:2049: warning: 'NSObject' may not respond to '-UTF8String'
+ArmLispCompiler.m:2049: warning: passing argument 1 of 'atoi' from incompatible pointer type
+ArmLispCompiler.m:2058: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m:2066: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:2071: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'pushOperatorPlusConstant:' from distinct Objective-C type
+ArmLispCompiler.m:2082: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m:2089: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:2099: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:2099: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseMin:]':
+ArmLispCompiler.m:2111: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:2114: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m:2122: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:2127: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'pushOperatorMinusConstant:' from distinct Objective-C type
+ArmLispCompiler.m:2136: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m: In function '-[ArmLispCompiler parseMul:]':
+ArmLispCompiler.m:2162: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'getTypeOfString:' from distinct Objective-C type
+ArmLispCompiler.m:2165: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m:2173: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m:2178: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'pushOperatorMulConstant:' from distinct Objective-C type
+ArmLispCompiler.m:2187: warning: incompatible Objective-C types 'struct NSObject *', expected 'struct NSString *' when passing argument 1 of 'ctorString:' from distinct Objective-C type
+ArmLispCompiler.m: In function '-[ArmLispCompiler skipFormAndWhiteSpace:withIndex:]':
+ArmLispCompiler.m:2226: warning: comparison between pointer and integer
+ArmLispCompiler.m:2243: warning: passing argument 2 of 'NSLOG2' makes pointer from integer without a cast
+ArmLispCompiler.m: At top level:
+ArmLispCompiler.m:2249: warning: incomplete implementation of class 'ArmLispCompiler'
+ArmLispCompiler.m:2249: warning: method definition for '-parseAssignment:withOp:' not found
+ArmLispCompiler.m:2249: warning: method definition for '-parseOperator:withAddress:andAddress:' not found
+ArmLispCompiler.m:2249: warning: method definition for '-parseOperator:withAddress:' not found
+ArmLispCompiler.m:2249: warning: method definition for '-parseDefinitionOfsetf:hex:' not found
+ArmLispCompiler.m:2249: warning: method definition for '-parseDefinitionOfsetq:hex:' not found
+ArmLispCompiler.m:2249: warning: method definition for '-parseDefinitionOfdefvar:hex:' not found
+ArmLispCompiler.m:2249: warning: method definition for '-parseForm:withIndex:' not found
+ArmLispCompiler.m:2249: warning: method definition for '-getTypeOf:' not found
+make: *** [ArmLispCompiler.o] Error 1

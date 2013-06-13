@@ -1,0 +1,8 @@
+. read orbit
+. make binary or text IDL
+. extend observers
+. proxies for clients
+. barchart,etc view - gang of four observer pattern
+
+. component Actor class, Beans etc
+. @property lookup on google 

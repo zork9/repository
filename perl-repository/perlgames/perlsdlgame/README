@@ -1,0 +1,17 @@
+This project needs the CPAN SDL modules 
+
+If you do not have these modules,
+run the following commands in a shell :
+
+perl -MCPAN -e 'install SDLx::App';
+
+To run the game :
+
+perl src/Game.pl;
+
+
+Graphics from opengameart.org and rpgrevolution.org, everything is Open Content
+
+
+keyboard bindings:
+

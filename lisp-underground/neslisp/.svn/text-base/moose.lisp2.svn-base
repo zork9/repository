@@ -1,0 +1,4 @@
+(setq a 11)
+(setq b 22)
+(defun fun (x y) (+ x y))
+(fun a b)

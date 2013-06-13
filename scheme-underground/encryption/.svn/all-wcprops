@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn-gen/!svn/ver/20483/scheme-underground/encryption
+END
+packages.scm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/19493/scheme-underground/encryption/packages.scm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/19493/scheme-underground/encryption/AUTHORS
+END
+BLURB
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/19493/scheme-underground/encryption/BLURB
+END
+dictionary.scm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/20483/scheme-underground/encryption/dictionary.scm
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/20483/scheme-underground/encryption/COPYING
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/19493/scheme-underground/encryption/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/19493/scheme-underground/encryption/README
+END
+blowfish.scm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/20483/scheme-underground/encryption/blowfish.scm
+END
+pkg-def.scm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/19493/scheme-underground/encryption/pkg-def.scm
+END

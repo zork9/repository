@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn-gen/!svn/ver/20484/scheme-underground/snow
+END
+packages.scm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/19493/scheme-underground/snow/packages.scm
+END
+load.scm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20484/scheme-underground/snow/load.scm
+END
+test.scm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/20484/scheme-underground/snow/test.scm
+END
+snow-repository.scm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/20484/scheme-underground/snow/snow-repository.scm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/19493/scheme-underground/snow/AUTHORS
+END
+BLURB
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn-gen/!svn/ver/19493/scheme-underground/snow/BLURB
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/20484/scheme-underground/snow/COPYING
+END
+htmldump.scm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/19493/scheme-underground/snow/htmldump.scm
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn-gen/!svn/ver/19493/scheme-underground/snow/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn-gen/!svn/ver/19493/scheme-underground/snow/README
+END
+pkg-def.scm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/19493/scheme-underground/snow/pkg-def.scm
+END

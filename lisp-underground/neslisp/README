@@ -1,0 +1,10 @@
+1. output goes to code.s file
+2. input is moose.lisp file
+3. examples are in the moose.lispX files
+4. moose.config shows all implemented lisp syntax (do not edit though)
+
+	4.1 asm ( <assemblycode> ) writes <assemblycode> clauses 
+		directly to code.s
+		(FIXME: There may not be a parens inside the assembler text)
+
+5. run 'make' to compile and run 'neslisp' as above

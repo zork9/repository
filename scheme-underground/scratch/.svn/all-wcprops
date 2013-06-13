@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn-gen/!svn/ver/20484/scheme-underground/scratch
+END
+packages.scm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn-gen/!svn/ver/19493/scheme-underground/scratch/packages.scm
+END
+load.scm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn-gen/!svn/ver/20484/scheme-underground/scratch/load.scm
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/19493/scheme-underground/scratch/AUTHORS
+END
+BLURB
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/19493/scheme-underground/scratch/BLURB
+END
+hexbinascii.scm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/20484/scheme-underground/scratch/hexbinascii.scm
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/20484/scheme-underground/scratch/COPYING
+END
+scratch.scm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/20484/scheme-underground/scratch/scratch.scm
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/19493/scheme-underground/scratch/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn-gen/!svn/ver/19493/scheme-underground/scratch/README
+END
+pkg-def.scm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn-gen/!svn/ver/19493/scheme-underground/scratch/pkg-def.scm
+END

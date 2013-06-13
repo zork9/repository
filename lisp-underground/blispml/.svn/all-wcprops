@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn-gen/!svn/ver/23781/lisp-underground/blispml
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn-gen/!svn/ver/23763/lisp-underground/blispml/test
+END
+read.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn-gen/!svn/ver/23780/lisp-underground/blispml/read.lisp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/23763/lisp-underground/blispml/AUTHORS
+END
+blispml-exe.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn-gen/!svn/ver/23780/lisp-underground/blispml/blispml-exe.lisp
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn-gen/!svn/ver/23763/lisp-underground/blispml/COPYING
+END
+blispml.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/23781/lisp-underground/blispml/blispml.lisp
+END
+blispml.tiff
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/23763/lisp-underground/blispml/blispml.tiff
+END
+params.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/23763/lisp-underground/blispml/params.lisp
+END
+config.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn-gen/!svn/ver/23763/lisp-underground/blispml/config.lisp
+END
+blispml-cat-exe.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/23781/lisp-underground/blispml/blispml-cat-exe.lisp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn-gen/!svn/ver/23763/lisp-underground/blispml/README
+END

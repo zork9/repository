@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/22773/java-repository/games/javaglgame.base
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-gen/!svn/ver/22773/java-repository/games/javaglgame.base/compile.sh
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/22773/java-repository/games/javaglgame.base/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn-gen/!svn/ver/22773/java-repository/games/javaglgame.base/TODO
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn-gen/!svn/ver/22773/java-repository/games/javaglgame.base/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/22773/java-repository/games/javaglgame.base/README
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn-gen/!svn/ver/22773/java-repository/games/javaglgame.base/run.sh
+END

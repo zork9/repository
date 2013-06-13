@@ -1,0 +1,37 @@
+/*
+ Copyright (C) Johan Ceuppens 2011
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 2 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+#include "xlua.h"
+#include "xluacode.h"
+namespace XLUA {
+
+template <class S, class T>
+int Xlua<S,T>::init() {
+	L = lua_open();
+	return 0;
+}
+
+template <class S, class T>
+int Xlua<S,T>::load()
+{
+	lua_register(L,"netfork",luanetfork);
+	lua_register(L,"markovnetfork",luamarkovnetfork);
+	lua_register(L,"xnetfork",luaxnetfork);
+	//FIXME86 if (luaL_dofile(L,NULL)!=0) fprintf(stderr, "%s\n", lua_tostring(L,-1));
+return 0;
+}
+
+}

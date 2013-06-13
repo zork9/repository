@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn-gen/!svn/ver/20828/objc-underground/libobjcgbarm/include
+END
+gba.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn-gen/!svn/ver/20828/objc-underground/libobjcgbarm/include/gba.h
+END
+gba_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn-gen/!svn/ver/20828/objc-underground/libobjcgbarm/include/gba_regs.h
+END
+gba_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-gen/!svn/ver/20828/objc-underground/libobjcgbarm/include/gba_types.h
+END
+gba_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-gen/!svn/ver/20828/objc-underground/libobjcgbarm/include/gba_video.h
+END

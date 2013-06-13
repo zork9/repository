@@ -1,0 +1,1163 @@
+Tlibobjcgbarm.xcode
+v7
+r0
+t374676112.007430
+cCheck dependencies
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmCompiler.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmCompiler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmScanner.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmScanner.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubCompiler.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubCompiler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubScanner.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubScanner.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ClassLocator.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ClassLocator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Compiler.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Compiler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Dispatcher.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Dispatcher.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Error.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Error.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FNString.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/FNString.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Fuzzy.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Fuzzy.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAObject.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/GBAObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTable.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTable.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTableStrings.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTableStrings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAChunk.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAChunk.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAMemory.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MemChunk.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Memory.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/Memory.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodName.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodNameArray.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodNameArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ObjectLocator.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ObjectLocator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ParseString.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Scanner.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Scanner.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/scansystem.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/scansystem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Status.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Status.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeName.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeNameArray.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeNameArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FileBuffer.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Data.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/DataArray.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/DataArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Object.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/liblibobjcgbarm.xcode.a normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004A5C14A60000000000000DCB
+t1247548582
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/file.h
+c000000004A73D6510000000000001024
+t1249105489
+s4132
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/Users/link/vub/objc-underground/libcarm/Disk.h
+c0000000050A237B1000000000000047D
+t1352808369
+s1149
+i<Cocoa/Cocoa.h>
+i"DiskMacros.h"
+
+N/Users/link/vub/objc-underground/libcarm/DiskMacros.h
+c0000000050A237B100000000000006B3
+t1352808369
+s1715
+i<Cocoa/Cocoa.h>
+i<sys/file.h>
+i"libcmacros.h"
+
+N/Users/link/vub/objc-underground/libcarm/File.h
+c0000000050A237B100000000000004F6
+t1352808369
+s1270
+i<Cocoa/Cocoa.h>
+i"FileBuffer.h"
+i"Node.h"
+i"Disk.h"
+
+N/Users/link/vub/objc-underground/libcarm/FileBuffer.h
+c0000000050A237B10000000000000369
+t1352808369
+s873
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libcarm/Node.h
+c0000000050A237B10000000000000464
+t1352808369
+s1124
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libcarm/RamDisk.h
+c0000000050A237B100000000000005B7
+t1352808369
+s1463
+i<Cocoa/Cocoa.h>
+i"Disk.h"
+i<sys/file.h>
+i"File.h"
+i"Node.h"
+i"DiskMacros.h"
+i"RamDiskMacros.h"
+
+N/Users/link/vub/objc-underground/libcarm/RamDiskMacros.h
+c0000000050A237B1000000000000033B
+t1352808369
+s827
+i<Cocoa/Cocoa.h>
+i"libcmacros.h"
+
+N/Users/link/vub/objc-underground/libcarm/carmmacros.h
+c0000000050A237B10000000000000487
+t1352808369
+s1159
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libcarm/config.h
+c0000000050A237B1000000000000044A
+t1352808369
+s1098
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libcarm/libcmacros.h
+c0000000050A237B10000000000000341
+t1352808369
+s833
+i<Cocoa/Cocoa.h>
+i"carmmacros.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.h
+c00000000509BB79E0000000000000369
+t1352382366
+s873
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m
+c0000000050A237B100000000000003B1
+t1352808369
+s945
+i"FileBuffer.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/String.h
+c0000000050A237B100000000000003E4
+t1352808369
+s996
+i<Cocoa/Cocoa.h>
+i"config.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmCompiler.m
+c0000000050A4E2940000000000002382
+t1352983188
+s9090
+i"ArmCompiler.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmScanner.m
+c0000000050A4E2940000000000000400
+t1352983188
+s1024
+i"ArmScanner.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubCompiler.m
+c0000000050A4E2940000000000002BC8
+t1352983188
+s11208
+i"ArmSubCompiler.h"
+i<unistd.h>
+i<stdlib.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubScanner.m
+c0000000050A4E2940000000000000334
+t1352983188
+s820
+i"ArmSubScanner.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ClassLocator.m
+c0000000050A4E29400000000000004CE
+t1352983188
+s1230
+i"ClassLocator.h"
+i"TypeName.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Compiler.m
+c0000000050A4E29400000000000003A3
+t1352983188
+s931
+i"Compiler.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m
+c0000000050A4E294000000000000035C
+t1352983188
+s860
+i"Data.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/DataArray.m
+c0000000050A4E294000000000000054E
+t1352983188
+s1358
+i"DataArray.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Dispatcher.m
+c0000000050A4E294000000000000030C
+t1352983188
+s780
+i"Dispatcher.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Error.m
+c0000000050A4E2940000000000000392
+t1352983188
+s914
+i"Error.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/FNString.m
+c0000000050A4E2940000000000000D55
+t1352983188
+s3413
+i"FNString.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Fuzzy.m
+c0000000050A4E29400000000000004A3
+t1352983188
+s1187
+i"Fuzzy.h"
+i<assert.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/GBAObject.m
+c0000000050A4E2940000000000000489
+t1352983188
+s1161
+i"GBAObject.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTable.m
+c0000000050A4E2940000000000000372
+t1352983188
+s882
+i"HashTable.h"
+i<string.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTableStrings.m
+c0000000050A4E29400000000000001F5
+t1352983188
+s501
+i"HashTableStrings.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m
+c0000000050A4E2940000000000000396
+t1352983188
+s918
+i"MethodName.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodNameArray.m
+c0000000050A4E294000000000000043E
+t1352983188
+s1086
+i"MethodNameArray.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m
+c0000000050A4E2940000000000000385
+t1352983188
+s901
+i"Object.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ObjectLocator.m
+c0000000050A4E294000000000000034C
+t1352983188
+s844
+i"ObjectLocator.h"
+i"TypeName.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m
+c0000000050A4E294000000000000099C
+t1352983188
+s2460
+i"ParseString.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Scanner.m
+c0000000050A4E2940000000000000318
+t1352983188
+s792
+i"Scanner.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Status.m
+c0000000050A4E29400000000000003A4
+t1352983188
+s932
+i"Status.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m
+c0000000050A4E2940000000000000628
+t1352983188
+s1576
+i"TypeName.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeNameArray.m
+c0000000050A4E29400000000000005AB
+t1352983188
+s1451
+i"TypeNameArray.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAChunk.m
+c00000000509BBA6200000000000005FA
+t1352383074
+s1530
+i"GBAChunk.h"
+i"GBAutil.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m
+c00000000509BB7A30000000000000435
+t1352382371
+s1077
+i"GBAMemory.h"
+i"../../include/gba.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m
+c00000000509BB7A200000000000003BF
+t1352382370
+s959
+i"MemChunk.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/Memory.m
+c00000000509BB7A200000000000002ED
+t1352382370
+s749
+i"Memory.h"
+i"../../include/gba.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/scansystem.m
+c0000000050A4E29400000000000002D5
+t1352983188
+s725
+i"scansystem.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/liblibobjcgbarm.xcode.a
+t1352983312
+s325224
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmCompiler.o
+t1352983301
+s26900
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmScanner.o
+t1352983301
+s7684
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubCompiler.o
+t1352983302
+s32316
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubScanner.o
+t1352983302
+s7608
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ClassLocator.o
+t1352983303
+s10008
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Compiler.o
+t1352983303
+s8968
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Data.o
+t1352983311
+s8444
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/DataArray.o
+t1352983311
+s9956
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Dispatcher.o
+t1352983304
+s7700
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Error.o
+t1352983304
+s7800
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FNString.o
+t1352983305
+s19628
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FileBuffer.o
+t1352810176
+s8052
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Fuzzy.o
+t1352983305
+s8884
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAChunk.o
+t1352383075
+s12196
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAMemory.o
+t1352383052
+s8284
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAObject.o
+t1352983306
+s10960
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTable.o
+t1352983306
+s7164
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTableStrings.o
+t1352983306
+s8148
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MemChunk.o
+t1352382818
+s8496
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Memory.o
+t1352382819
+s5500
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodName.o
+t1352983306
+s8836
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodNameArray.o
+t1352983307
+s9244
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Object.o
+t1352983311
+s8600
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ObjectLocator.o
+t1352983307
+s7568
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ParseString.o
+t1352983308
+s14144
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Scanner.o
+t1352983308
+s7404
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Status.o
+t1352983309
+s7644
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeName.o
+t1352983310
+s13380
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeNameArray.o
+t1352983310
+s10668
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/libobjcgbarm.xcode.LinkFileList
+c0000000050A4E3000000000000001165
+t1352983296
+s4453
+
+N/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/scansystem.o
+t1352983309
+s5512
+
+N/Users/link/vub/objc-underground/libobjcgbarm/include/gba.h
+c00000000509BB79E0000000000000097
+t1352382366
+s151
+i"gba_types.h"
+i"gba_regs.h"
+i"gba_video.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/include/gba_regs.h
+c00000000509BB79E00000000000002D8
+t1352382366
+s728
+i"gba_types.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/include/gba_types.h
+c00000000509BB79E000000000000011A
+t1352382366
+s282
+
+N/Users/link/vub/objc-underground/libobjcgbarm/include/gba_video.h
+c00000000509BB79E00000000000004F6
+t1352382366
+s1270
+i"gba_types.h"
+i"gba_regs.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/ArmCompiler.h
+c0000000050A4E29400000000000006D1
+t1352983188
+s1745
+i<Cocoa/Cocoa.h>
+i"Compiler.h"
+i"FNString.h"
+i"ArmScanner.h"
+i"ParseString.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/ArmScanner.h
+c0000000050A4E294000000000000037F
+t1352983188
+s895
+i<Cocoa/Cocoa.h>
+i"FNString.h"
+i"Compiler.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/ArmSubCompiler.h
+c0000000050A4E29400000000000009E8
+t1352983188
+s2536
+i<Cocoa/Cocoa.h>
+i"ArmSubScanner.h"
+i"ArmCompiler.h"
+i"ClassLocator.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/ArmSubScanner.h
+c0000000050A4E294000000000000036D
+t1352983188
+s877
+i<Cocoa/Cocoa.h>
+i"FNString.h"
+i"Compiler.h"
+i"ArmScanner.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/ClassLocator.h
+c0000000050A4E2940000000000000398
+t1352983188
+s920
+i<Cocoa/Cocoa.h>
+i"GBAObject.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/Compiler.h
+c0000000050A4E2940000000000000392
+t1352983188
+s914
+i<Cocoa/Cocoa.h>
+i"FNString.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/Data.h
+c0000000050A4E294000000000000062F
+t1352983188
+s1583
+i<Cocoa/Cocoa.h>
+i"../../libcarm/RamDisk.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/DataArray.h
+c0000000050A4E2940000000000000396
+t1352983188
+s918
+i<Cocoa/Cocoa.h>
+i"HashTableStrings.h"
+i"Data.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/Dispatcher.h
+c0000000050A4E2940000000000000339
+t1352983188
+s825
+i<Cocoa/Cocoa.h>
+i"GBAObject.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/Error.h
+c0000000050A4E294000000000000045E
+t1352983188
+s1118
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/FNString.h
+c0000000050A4E2940000000000000566
+t1352983188
+s1382
+i<Cocoa/Cocoa.h>
+i"../../libcarm/FileBuffer.h"
+i"ScanSystem.h"
+i"Error.h"
+i"Status.h"
+i<sys/file.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/Fuzzy.h
+c0000000050A4E29400000000000003C6
+t1352983188
+s966
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/GBAObject.h
+c0000000050A4E2940000000000000401
+t1352983188
+s1025
+i<Cocoa/Cocoa.h>
+i"TypeNameArray.h"
+i"MethodNameArray.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/HashTable.h
+c0000000050A4E2940000000000000363
+t1352983188
+s867
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/HashTableStrings.h
+c0000000050A4E2940000000000000185
+t1352983188
+s389
+i<Cocoa/Cocoa.h>
+i"HashTable.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/MethodName.h
+c0000000050A4E294000000000000038B
+t1352983188
+s907
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/MethodNameArray.h
+c0000000050A4E29400000000000003A9
+t1352983188
+s937
+i<Cocoa/Cocoa.h>
+i"HashTableStrings.h"
+i"MethodName.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/Object.h
+c0000000050A4E2940000000000000384
+t1352983188
+s900
+i<Cocoa/Cocoa.h>
+i"GBAObject.h"
+i"TypeNameArray.h"
+i"DataArray.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/ObjectLocator.h
+c0000000050A4E2940000000000000332
+t1352983188
+s818
+i<Cocoa/Cocoa.h>
+i"GBAObject.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/ParseString.h
+c0000000050A4E2940000000000000430
+t1352983188
+s1072
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/Scanner.h
+c0000000050A4E2940000000000000319
+t1352983188
+s793
+i<Cocoa/Cocoa.h>
+i"FNString.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/Status.h
+c0000000050A4E2940000000000000360
+t1352983188
+s864
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/TypeName.h
+c0000000050A4E29400000000000005A7
+t1352983188
+s1447
+i<Cocoa/Cocoa.h>
+i"../../libcarm/Disk.h"
+i"Data.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/TypeNameArray.h
+c0000000050A4E29400000000000003C1
+t1352983188
+s961
+i<Cocoa/Cocoa.h>
+i"HashTableStrings.h"
+i"TypeName.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/libmemory/GBAChunk.h
+c00000000509BBA4A000000000000048D
+t1352383050
+s1165
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/libmemory/GBAMemory.h
+c00000000509BB7A200000000000003AA
+t1352382370
+s938
+i<Cocoa/Cocoa.h>
+i"Memory.h"
+i"GBAChunk.h"
+i"../../include/gba.h"
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/libmemory/GBAutil.h
+c00000000509BB9F200000000000003F7
+t1352382962
+s1015
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/libmemory/MemChunk.h
+c00000000509BB7A300000000000003E9
+t1352382371
+s1001
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/libmemory/Memory.h
+c00000000509BB7A300000000000002DE
+t1352382371
+s734
+i<Cocoa/Cocoa.h>
+
+N/Users/link/vub/objc-underground/libobjcgbarm/src/scansystem.h
+c0000000050A4E29400000000000002E4
+t1352983188
+s740
+i<Cocoa/Cocoa.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies374676096#374676096#0(0"0(0#1#0"28429402151780452#0"0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmCompiler.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmCompiler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676096.884873
+e374676101.844397
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmCompiler.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmCompiler.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmCompiler.m374676096#374676101#0(0"0(0#0#85"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmCompiler.m7091318039075779584#1655"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmCompiler.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmCompiler.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmScanner.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmScanner.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676096.930701
+e374676101.794621
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmScanner.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmScanner.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmScanner.m374676096#374676101#0(0"0(0#0#84"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmScanner.m8026093399300141056#1653"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmScanner.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmScanner.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubCompiler.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubCompiler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676101.794854
+e374676102.716597
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubCompiler.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubCompiler.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubCompiler.m374676101#374676102#0(0"0(0#0#88"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubCompiler.m4300882208#1661"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubCompiler.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubCompiler.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubScanner.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubScanner.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676101.844504
+e374676102.649780
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubScanner.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubScanner.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubScanner.m374676101#374676102#0(0"0(0#0#87"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubScanner.m4300882208#1659"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ArmSubScanner.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ArmSubScanner.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ClassLocator.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ClassLocator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676102.649887
+e374676103.471453
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ClassLocator.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ClassLocator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ClassLocator.m374676102#374676103#0(0"0(0#0#86"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ClassLocator.m4300882208#1657"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ClassLocator.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ClassLocator.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Compiler.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Compiler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676102.716706
+e374676103.566764
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Compiler.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Compiler.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Compiler.m374676102#374676103#0(0"0(0#0#82"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Compiler.m4300882208#1649"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Compiler.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Compiler.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Data.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676110.265855
+e374676111.140627
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Data.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m: In function '-[Data setData:]':
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m:24: warning: control reaches end of non-void function
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m: At top level:
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m:30: warning: incomplete implementation of class 'Data'
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m:30: warning: method definition for '-type' not found
+lSLF07#2@86"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m374676110#374676111#0(605"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m: In function '-[Data setData:]':/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m:24: warning: control reaches end of non-void function/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m: At top level:/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m:30: warning: incomplete implementation of class 'Data'/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m:30: warning: method definition for '-type' not found4(22@40"Control reaches end of non-void function374676111#112#133#0(6@78"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m374675988#24#0#24#0#40"control reaches end of non-void function0(23@13"At top level:374676111#245#94#0(6@78"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m374675988#0#0#0#0#0"0(22@41"Incomplete implementation of class 'Data'374676111#339#134#0(6@78"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m374675988#30#0#30#0#38"incomplete implementation of class '*'0(22@39"Method definition for '-type' not found374676111#473#132#0(6@78"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m374675988#30#0#30#0#35"method definition for '*' not found0(0#0#78"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m4300882208#1641"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Data.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Data.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/DataArray.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/DataArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676110.355329
+e374676111.201943
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/DataArray.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/DataArray.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/DataArray.m374676110#374676111#0(0"0(0#0#83"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/DataArray.m4300882208#1651"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/DataArray.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/DataArray.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Dispatcher.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Dispatcher.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676103.471632
+e374676104.321648
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Dispatcher.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Dispatcher.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Dispatcher.m374676103#374676104#0(0"0(0#0#84"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Dispatcher.m4300882208#1653"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Dispatcher.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Dispatcher.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Error.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Error.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676103.566872
+e374676104.413677
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Error.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Error.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Error.m374676103#374676104#0(0"0(0#0#79"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Error.m4300882208#1643"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Error.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Error.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FNString.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/FNString.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676104.321755
+e374676105.183048
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FNString.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/FNString.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/FNString.m374676104#374676105#0(0"0(0#0#82"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/FNString.m4300882208#1649"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/FNString.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FNString.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FileBuffer.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374502975.442228
+e374502976.242511
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FileBuffer.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m: In function '-[FileBuffer length]':
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: 'FileBuffer' may not respond to '-count'
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: (Messages without a matching method signature
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: will be assumed to return 'id' and accept
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: '...' as arguments.)
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: return makes integer from pointer without a cast
+lSLF07#2@83"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m374502975#374502976#0(757"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m: In function '-[FileBuffer length]':/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: 'FileBuffer' may not respond to '-count'/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: (Messages without a matching method signature/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: will be assumed to return 'id' and accept/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: '...' as arguments.)/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m:34: warning: return makes integer from pointer without a cast3(22@40"'FileBuffer' may not respond to '-count'374502976#113#130#0(6@75"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m374501169#34#0#34#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)374502976#243#135#0(6@75"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m374501169#34#0#34#0#0"0(22@48"Return makes integer from pointer without a cast374502976#619#138#0(6@75"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m374501169#34#0#34#0#0"0(0#0#75"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m4300882208#1644"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libcarm/FileBuffer.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/FileBuffer.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Fuzzy.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Fuzzy.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676104.413781
+e374676105.239076
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Fuzzy.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Fuzzy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Fuzzy.m374676104#374676105#0(0"0(0#0#79"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Fuzzy.m4300882208#1643"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Fuzzy.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Fuzzy.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAChunk.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAChunk.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374075876.217050
+e374075876.218374
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAChunk.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAChunk.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAChunk.m374075876#374075876#0(0"0(0#0#92"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAChunk.m4300882208#1659"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAChunk.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAChunk.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAMemory.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374075851.410530
+e374075852.371856
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAMemory.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m: In function '-[GBAMemory manageChunk:]':
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m:36: warning: passing argument 1 of '__builtin_object_size' makes pointer from integer without a cast
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m:36: warning: passing argument 1 of '__builtin_object_size' makes pointer from integer without a cast
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m:36: warning: passing argument 1 of '__builtin___memcpy_chk' makes pointer from integer without a cast
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m:36: warning: passing argument 1 of '__inline_memcpy_chk' makes pointer from integer without a cast
+lSLF07#2@101"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m374075851#374075852#0(915"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m: In function '-[GBAMemory manageChunk:]':/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m:36: warning: passing argument 1 of '__builtin_object_size' makes pointer from integer without a cast/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m:36: warning: passing argument 1 of '__builtin_object_size' makes pointer from integer without a cast/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m:36: warning: passing argument 1 of '__builtin___memcpy_chk' makes pointer from integer without a cast/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m:36: warning: passing argument 1 of '__inline_memcpy_chk' makes pointer from integer without a cast4(22@87"Passing argument 1 of '__builtin_object_size' makes pointer from integer without a cast374075852#136#195#0(6@93"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m374075171#36#0#36#0#0"0(22@87"Passing argument 1 of '__builtin_object_size' makes pointer from integer without a cast374075852#331#195#0(6@93"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m374075171#36#0#36#0#0"0(22@88"Passing argument 1 of '__builtin___memcpy_chk' makes pointer from integer without a cast374075852#526#196#0(6@93"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m374075171#36#0#36#0#0"0(22@85"Passing argument 1 of '__inline_memcpy_chk' makes pointer from integer without a cast374075852#722#193#0(6@93"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m374075171#36#0#36#0#0"0(0#0#93"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m4300882208#1661"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/GBAMemory.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAMemory.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAObject.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/GBAObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676105.183240
+e374676106.031092
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAObject.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/GBAObject.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/GBAObject.m374676105#374676106#0(0"0(0#0#83"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/GBAObject.m4300882208#1651"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/GBAObject.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/GBAObject.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTable.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTable.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676105.239182
+e374676106.054544
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTable.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTable.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTable.m374676105#374676106#0(0"0(0#0#83"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTable.m4300882208#1651"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTable.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTable.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTableStrings.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTableStrings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676106.031197
+e374676106.891879
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTableStrings.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTableStrings.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTableStrings.m374676106#374676106#0(0"0(0#0#90"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTableStrings.m4300882208#1665"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/HashTableStrings.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/HashTableStrings.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MemChunk.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374075618.005380
+e374075618.821590
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MemChunk.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m: In function '-[MemChunk ctor:withReadF:withWriteF:]':
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m:26: warning: assignment from incompatible pointer type
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m:27: warning: assignment from incompatible pointer type
+lSLF07#2@100"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m374075618#374075618#0(444"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m: In function '-[MemChunk ctor:withReadF:withWriteF:]':/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m:26: warning: assignment from incompatible pointer type/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m:27: warning: assignment from incompatible pointer type2(22@41"Assignment from incompatible pointer type374075618#148#148#0(6@92"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m374075170#26#0#26#0#41"assignment from incompatible pointer type0(22@41"Assignment from incompatible pointer type374075618#296#148#0(6@92"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m374075170#27#0#27#0#41"assignment from incompatible pointer type0(0#0#92"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m4300882208#1659"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/MemChunk.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MemChunk.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Memory.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/Memory.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374075618.785253
+e374075619.613189
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Memory.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/Memory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/Memory.m374075618#374075619#0(0"0(0#0#90"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/Memory.m7449915179608991744#1655"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/libmemory/Memory.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Memory.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodName.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676106.055309
+e374676106.909449
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodName.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m: In function '-[MethodName ctor:withMethodName:]':
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m:22: warning: conflicting types for '-(MethodName *)ctor:(long int)i withMethodName:(NSString *)n'
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.h:25: warning: previous declaration of '-(MethodName *)ctor:(int)i withMethodName:(NSString *)n'
+lSLF07#2@92"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m374676106#374676106#0(499"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m: In function '-[MethodName ctor:withMethodName:]':/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m:22: warning: conflicting types for '-(MethodName *)ctor:(long int)i withMethodName:(NSString *)n'/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.h:25: warning: previous declaration of '-(MethodName *)ctor:(int)i withMethodName:(NSString *)n'2(22@84"Conflicting types for '-(MethodName *)ctor:(long int)i withMethodName:(NSString *)n'374676106#136#183#0(6@84"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m374675988#22#0#22#0#25"conflicting types for '*'0(22@81"Previous declaration of '-(MethodName *)ctor:(int)i withMethodName:(NSString *)n'374676106#319#180#0(6@84"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.h374675988#25#0#25#0#0"0(0#0#84"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m4300882208#1653"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodName.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodName.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodNameArray.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodNameArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676106.892074
+e374676107.753862
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodNameArray.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodNameArray.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodNameArray.m374676106#374676107#0(0"0(0#0#89"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodNameArray.m7236850772752167936#1663"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/MethodNameArray.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/MethodNameArray.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Object.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676111.140732
+e374676111.914491
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Object.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m: In function '-[Object writeOn:data:]':
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: 'TypeNameArray' may not respond to '-objectWithIndex:'
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: (Messages without a matching method signature
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: will be assumed to return 'id' and accept
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: '...' as arguments.)
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: 'Disk' may not respond to '-write:data:'
+lSLF07#2@88"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m374676111#374676111#0(796"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m: In function '-[Object writeOn:data:]':/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: 'TypeNameArray' may not respond to '-objectWithIndex:'/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: (Messages without a matching method signature/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: will be assumed to return 'id' and accept/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: '...' as arguments.)/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m:24: warning: 'Disk' may not respond to '-write:data:'3(22@54"'TypeNameArray' may not respond to '-objectWithIndex:'374676111#121#149#0(6@80"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m374675988#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)374676111#270#140#0(6@80"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m374675988#24#0#24#0#0"0(22@40"'Disk' may not respond to '-write:data:'374676111#661#135#0(6@80"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m374675988#24#0#24#0#26"'*' may not respond to '*'0(0#0#80"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m4300882208#1645"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Object.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Object.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ObjectLocator.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ObjectLocator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676106.909577
+e374676107.748343
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ObjectLocator.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ObjectLocator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ObjectLocator.m374676106#374676107#0(0"0(0#0#87"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ObjectLocator.m4300882208#1659"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ObjectLocator.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ObjectLocator.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ParseString.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676107.748450
+e374676108.612954
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ParseString.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m: In function '-[ParseString isTypedWell]':
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m:74: warning: conflicting types for '-(int)isTypedWell'
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.h:29: warning: previous declaration of '-(_Bool)isTypedWell'
+lSLF07#2@93"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m374676107#374676108#0(415"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m: In function '-[ParseString isTypedWell]':/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m:74: warning: conflicting types for '-(int)isTypedWell'/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.h:29: warning: previous declaration of '-(_Bool)isTypedWell'2(22@41"Conflicting types for '-(int)isTypedWell'374676108#129#141#0(6@85"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m374675988#74#0#74#0#25"conflicting types for '*'0(22@45"Previous declaration of '-(_Bool)isTypedWell'374676108#270#145#0(6@85"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.h374675988#29#0#29#0#0"0(0#0#85"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m4300882208#1655"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/ParseString.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/ParseString.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Scanner.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Scanner.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676107.753975
+e374676108.569442
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Scanner.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Scanner.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Scanner.m374676107#374676108#0(0"0(0#0#81"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Scanner.m4300882208#1647"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Scanner.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Scanner.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Status.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Status.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676108.613075
+e374676109.446698
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Status.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Status.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Status.m374676108#374676109#0(0"0(0#0#80"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Status.m4300882208#1645"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/Status.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/Status.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeName.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676109.416237
+e374676110.265481
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeName.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m: In function '-[TypeName writeOn:data:]':
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:71: warning: 'Disk' may not respond to '-write:data:'
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:71: warning: (Messages without a matching method signature
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:71: warning: will be assumed to return 'id' and accept
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:71: warning: '...' as arguments.)
+o/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:73: warning: control reaches end of non-void function
+lSLF07#2@90"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m374676109#374676110#0(796"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m: In function '-[TypeName writeOn:data:]':/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:71: warning: 'Disk' may not respond to '-write:data:'/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:71: warning: (Messages without a matching method signature/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:71: warning: will be assumed to return 'id' and accept/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:71: warning: '...' as arguments.)/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m:73: warning: control reaches end of non-void function3(22@40"'Disk' may not respond to '-write:data:'374676110#125#137#0(6@82"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m374675988#71#0#71#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)374676110#262#142#0(6@82"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m374675988#71#0#71#0#0"0(22@40"Control reaches end of non-void function374676110#659#137#0(6@82"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m374675988#73#0#73#0#40"control reaches end of non-void function0(0#0#82"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m4300882208#1649"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeName.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeName.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeNameArray.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeNameArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676109.446808
+e374676110.355217
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeNameArray.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeNameArray.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeNameArray.m374676109#374676110#0(0"0(0#0#87"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeNameArray.m4300882208#1659"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/TypeNameArray.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/TypeNameArray.o0#
+
+CCompileC build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/scansystem.o /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/scansystem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374676108.569625
+e374676109.416115
+r1
+xCompileC
+xbuild/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/scansystem.o
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/scansystem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/scansystem.m374676108#374676109#0(0"0(0#0#84"/Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/scansystem.m4300882208#1653"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-generated-files.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-own-target-headers.hmap -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-all-target-headers.hmap -iquote /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/libobjcgbarm.xcode-project-headers.hmap -F/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/include -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources/x86_64 -I/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/DerivedSources -c /Users/link/vub/objc-underground/libobjcgbarm.xcode/../libobjcgbarm/src/scansystem.m -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/scansystem.o0#
+
+CLibtool /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/liblibobjcgbarm.xcode.a normal x86_64
+s374676111.914678
+e374676112.007360
+r1
+xLibtool
+x/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/liblibobjcgbarm.xcode.a
+xnormal
+xx86_64
+lSLF07#2@57"Libtool build/Debug/liblibobjcgbarm.xcode.a normal x86_64374676111#374676112#0(0"0(0#0#0"4300882208#535"    cd /Users/link/vub/objc-underground/libobjcgbarm.xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug -filelist /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/libobjcgbarm.xcode.build/Debug/libobjcgbarm.xcode.build/Objects-normal/x86_64/libobjcgbarm.xcode.LinkFileList -o /Users/link/vub/objc-underground/libobjcgbarm.xcode/build/Debug/liblibobjcgbarm.xcode.a0#
+

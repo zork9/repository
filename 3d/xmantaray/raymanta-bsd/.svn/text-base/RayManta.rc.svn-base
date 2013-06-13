@@ -1,0 +1,6 @@
+//global configuration file (in C)
+#define TITLEWINH 20
+
+//images must be xpm files
+#define BACKGROUNDIMAGE "/usr/share/enlightenment/themes/ShinyMetal/pix/bg_02.jpg"
+#define FOREGROUNDIMAGE "/usr/share/Eterm/pix/backwave.jpg"

@@ -1,0 +1,12 @@
+
+This is libcarm which must be implemented in Lisp for use in the chocolisp
+compiler.
+
+NOTES:
+. GBA has a Ram and Screen buffer
+. This project is just files compilable with gcc (C,objC) and is built inside
+the libobjcgbarm/ project files.
+. small kernel files for ARM (GBA), filesystem and other librarey functions
+. you can compile this library with "gcc -c *.m" "gcc -shared libcarm.so *.o"
+
+Johan
